@@ -1,0 +1,996 @@
+2023-05-16 09:05:661 INFO  ComputersPage :24 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (1dcb744145834f6b29bcddff907d7e0b)] -> xpath: //div[@class='block block-category-navigation']/descendant::a[2]]
+2023-05-16 09:05:794 INFO  DesktopPage :34 - Click on sort by name Z to A : [[ChromeDriver: chrome on WINDOWS (1dcb744145834f6b29bcddff907d7e0b)] -> name: products-orderby]
+2023-05-16 09:05:917 INFO  DesktopPage :66 - Product is sorted in descending order
+2023-05-16 09:05:882 INFO  ComputersPage :24 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (fa7316534b9c0b6b650192f8f95dd0ee)] -> xpath: //div[@class='block block-category-navigation']/descendant::a[2]]
+2023-05-16 10:05:66 INFO  ComputersPage :24 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (f9a72587ad4bfb6e1f67fe14b180ced7)] -> xpath: //div[@class='block block-category-navigation']/descendant::a[2]]
+2023-05-16 10:05:535 INFO  ComputersPage :24 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (27f7dad86e93fd6b3295c08011e6b4a0)] -> xpath: //div[@class='block block-category-navigation']/descendant::a[2]]
+2023-05-16 10:05:618 INFO  ComputersPage :24 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (d848aa1555db28994ee7ad41bcc67bf8)] -> xpath: //div[@class='block block-category-navigation']/descendant::a[2]]
+2023-05-16 10:05:413 INFO  ComputersPage :24 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (06aaa2fc5d432412258887db705ef6b1)] -> xpath: //div[@class='block block-category-navigation']/descendant::a[2]]
+2023-05-16 10:05:547 INFO  DesktopPage :36 - Click on sort by name Z to A : [[ChromeDriver: chrome on WINDOWS (06aaa2fc5d432412258887db705ef6b1)] -> id: products-orderby]
+2023-05-16 10:05:993 INFO  ComputersPage :24 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (2f6b0961d52aa8ba09fd260e10198c01)] -> xpath: //div[@class='block block-category-navigation']/descendant::a[2]]
+2023-05-16 10:05:115 INFO  DesktopPage :36 - Click on sort by name Z to A : [[ChromeDriver: chrome on WINDOWS (2f6b0961d52aa8ba09fd260e10198c01)] -> id: products-orderby]
+2023-05-16 10:05:358 INFO  ComputersPage :24 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (298b7346262527270403d64ac473d913)] -> xpath: //div[@class='block block-category-navigation']/descendant::a[2]]
+2023-05-16 10:05:511 INFO  DesktopPage :36 - Click on sort by name Z to A : [[ChromeDriver: chrome on WINDOWS (298b7346262527270403d64ac473d913)] -> id: products-orderby]
+2023-05-16 10:05:612 INFO  DesktopPage :51 - Click on add to cart button [[ChromeDriver: chrome on WINDOWS (298b7346262527270403d64ac473d913)] -> xpath: //div[@class='item-grid']//div[1]//div[1]//div[2]//div[3]//div[2]//button[1]]
+2023-05-16 10:05:363 INFO  BuildYourOwnComputerPage :24 - Build your own computer text : Build your own computer
+2023-05-16 10:05:826 INFO  ComputersPage :24 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (7e69752b21ef6bdd3c70c42a26cea26e)] -> xpath: //div[@class='block block-category-navigation']/descendant::a[2]]
+2023-05-16 10:05:995 INFO  DesktopPage :36 - Click on sort by name Z to A : [[ChromeDriver: chrome on WINDOWS (7e69752b21ef6bdd3c70c42a26cea26e)] -> id: products-orderby]
+2023-05-16 10:05:96 INFO  DesktopPage :51 - Click on add to cart button [[ChromeDriver: chrome on WINDOWS (7e69752b21ef6bdd3c70c42a26cea26e)] -> xpath: //div[@class='item-grid']//div[1]//div[1]//div[2]//div[3]//div[2]//button[1]]
+2023-05-16 10:05:449 INFO  BuildYourOwnComputerPage :69 - Build your own computer text : Build your own computer
+2023-05-16 10:05:603 INFO  BuildYourOwnComputerPage :75 - Select processor : 2.2 GHz Intel Pentium Dual-Core E2200
+2023-05-16 10:05:753 INFO  BuildYourOwnComputerPage :81 - Select Ram : 8GB [+$60.00]
+2023-05-16 10:05:914 INFO  BuildYourOwnComputerPage :87 - Select HDD : 400 GB [+$100.00]
+2023-05-16 10:05:32 INFO  BuildYourOwnComputerPage :93 - Select OS : Vista Premium [+$60.00]
+2023-05-16 10:05:165 INFO  BuildYourOwnComputerPage :99 - Select processor : Total Commander [+$5.00]
+2023-05-16 10:05:899 INFO  ComputersPage :24 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (4ada9fdec4129c0fdab2b2c2db6fd845)] -> xpath: //div[@class='block block-category-navigation']/descendant::a[2]]
+2023-05-16 10:05:96 INFO  DesktopPage :36 - Click on sort by name Z to A : [[ChromeDriver: chrome on WINDOWS (4ada9fdec4129c0fdab2b2c2db6fd845)] -> id: products-orderby]
+2023-05-16 10:05:245 INFO  DesktopPage :51 - Click on add to cart button [[ChromeDriver: chrome on WINDOWS (4ada9fdec4129c0fdab2b2c2db6fd845)] -> xpath: //div[@class='item-grid']//div[1]//div[1]//div[2]//div[3]//div[2]//button[1]]
+2023-05-16 10:05:839 INFO  BuildYourOwnComputerPage :69 - Build your own computer text : Build your own computer
+2023-05-16 10:05:53 INFO  BuildYourOwnComputerPage :75 - Select processor : 2.2 GHz Intel Pentium Dual-Core E2200
+2023-05-16 10:05:223 INFO  BuildYourOwnComputerPage :81 - Select Ram : 8GB [+$60.00]
+2023-05-16 10:05:364 INFO  BuildYourOwnComputerPage :87 - Select HDD : 400 GB [+$100.00]
+2023-05-16 10:05:486 INFO  BuildYourOwnComputerPage :93 - Select OS : Vista Premium [+$60.00]
+2023-05-16 10:05:600 INFO  BuildYourOwnComputerPage :99 - Select processor : Total Commander [+$5.00]
+2023-05-16 10:05:291 INFO  ComputersPage :24 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (4d0eb25d16d31df9c1e05f36f93f758f)] -> xpath: //div[@class='block block-category-navigation']/descendant::a[2]]
+2023-05-16 10:05:471 INFO  DesktopPage :36 - Click on sort by name Z to A : [[ChromeDriver: chrome on WINDOWS (4d0eb25d16d31df9c1e05f36f93f758f)] -> id: products-orderby]
+2023-05-16 10:05:539 INFO  DesktopPage :51 - Click on add to cart button [[ChromeDriver: chrome on WINDOWS (4d0eb25d16d31df9c1e05f36f93f758f)] -> xpath: //div[@class='item-grid']//div[1]//div[1]//div[2]//div[3]//div[2]//button[1]]
+2023-05-16 10:05:468 INFO  BuildYourOwnComputerPage :69 - Build your own computer text : Build your own computer
+2023-05-16 10:05:593 INFO  BuildYourOwnComputerPage :75 - Select processor : 2.2 GHz Intel Pentium Dual-Core E2200
+2023-05-16 10:05:682 INFO  BuildYourOwnComputerPage :81 - Select Ram : 8GB [+$60.00]
+2023-05-16 10:05:997 INFO  BuildYourOwnComputerPage :87 - Select HDD : 400 GB [+$100.00]
+2023-05-16 10:05:64 INFO  BuildYourOwnComputerPage :93 - Select OS : Vista Premium [+$60.00]
+2023-05-16 10:05:116 INFO  BuildYourOwnComputerPage :99 - Select processor : Total Commander [+$5.00]
+2023-05-16 10:05:582 INFO  ComputersPage :24 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (aa2c95c9d7b493e302c13e7f530e1ad5)] -> xpath: //div[@class='block block-category-navigation']/descendant::a[2]]
+2023-05-16 10:05:692 INFO  DesktopPage :36 - Click on sort by name Z to A : [[ChromeDriver: chrome on WINDOWS (aa2c95c9d7b493e302c13e7f530e1ad5)] -> id: products-orderby]
+2023-05-16 10:05:752 INFO  DesktopPage :51 - Click on add to cart button [[ChromeDriver: chrome on WINDOWS (aa2c95c9d7b493e302c13e7f530e1ad5)] -> xpath: //div[@class='item-grid']//div[1]//div[1]//div[2]//div[3]//div[2]//button[1]]
+2023-05-16 10:05:803 INFO  BuildYourOwnComputerPage :69 - Build your own computer text : Build your own computer
+2023-05-16 10:05:897 INFO  BuildYourOwnComputerPage :75 - Select processor : 2.2 GHz Intel Pentium Dual-Core E2200
+2023-05-16 10:05:990 INFO  BuildYourOwnComputerPage :81 - Select Ram : 8GB [+$60.00]
+2023-05-16 10:05:79 INFO  BuildYourOwnComputerPage :87 - Select HDD : 400 GB [+$100.00]
+2023-05-16 10:05:147 INFO  BuildYourOwnComputerPage :93 - Select OS : Vista Premium [+$60.00]
+2023-05-16 10:05:203 INFO  BuildYourOwnComputerPage :99 - Select processor : Total Commander [+$5.00]
+2023-05-16 10:05:682 INFO  ComputersPage :24 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (9ce8d684d3515584c921f89cb6341532)] -> xpath: //div[@class='block block-category-navigation']/descendant::a[2]]
+2023-05-16 10:05:846 INFO  DesktopPage :36 - Click on sort by name Z to A : [[ChromeDriver: chrome on WINDOWS (9ce8d684d3515584c921f89cb6341532)] -> id: products-orderby]
+2023-05-16 10:05:58 INFO  DesktopPage :51 - Click on add to cart button [[ChromeDriver: chrome on WINDOWS (9ce8d684d3515584c921f89cb6341532)] -> xpath: //div[@class='item-grid']//div[1]//div[1]//div[2]//div[3]//div[2]//button[1]]
+2023-05-16 10:05:84 INFO  BuildYourOwnComputerPage :69 - Build your own computer text : Build your own computer
+2023-05-16 10:05:225 INFO  BuildYourOwnComputerPage :75 - Select processor : 2.2 GHz Intel Pentium Dual-Core E2200
+2023-05-16 10:05:366 INFO  BuildYourOwnComputerPage :81 - Select Ram : 8GB [+$60.00]
+2023-05-16 10:05:484 INFO  BuildYourOwnComputerPage :87 - Select HDD : 400 GB [+$100.00]
+2023-05-16 10:05:597 INFO  BuildYourOwnComputerPage :93 - Select OS : Vista Premium [+$60.00]
+2023-05-16 10:05:711 INFO  BuildYourOwnComputerPage :99 - Select processor : Total Commander [+$5.00]
+2023-05-16 10:05:443 INFO  ComputersPage :24 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (04ae8909552a96009cee00707857b944)] -> xpath: //div[@class='block block-category-navigation']/descendant::a[2]]
+2023-05-16 10:05:617 INFO  DesktopPage :36 - Click on sort by name Z to A : [[ChromeDriver: chrome on WINDOWS (04ae8909552a96009cee00707857b944)] -> id: products-orderby]
+2023-05-16 10:05:702 INFO  DesktopPage :51 - Click on add to cart button [[ChromeDriver: chrome on WINDOWS (04ae8909552a96009cee00707857b944)] -> xpath: //div[@class='item-grid']//div[1]//div[1]//div[2]//div[3]//div[2]//button[1]]
+2023-05-16 10:05:670 INFO  BuildYourOwnComputerPage :69 - Build your own computer text : Build your own computer
+2023-05-16 10:05:805 INFO  BuildYourOwnComputerPage :75 - Select processor : 2.2 GHz Intel Pentium Dual-Core E2200
+2023-05-16 10:05:970 INFO  BuildYourOwnComputerPage :81 - Select Ram : 8GB [+$60.00]
+2023-05-16 10:05:104 INFO  BuildYourOwnComputerPage :87 - Select HDD : 400 GB [+$100.00]
+2023-05-16 10:05:190 INFO  BuildYourOwnComputerPage :93 - Select OS : Vista Premium [+$60.00]
+2023-05-16 10:05:279 INFO  BuildYourOwnComputerPage :99 - Select processor : Total Commander [+$5.00]
+2023-05-16 10:05:768 INFO  ComputersPage :24 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (0a28c4fa36a0b40b88addb3319754006)] -> xpath: //div[@class='block block-category-navigation']/descendant::a[2]]
+2023-05-16 10:05:14 INFO  DesktopPage :36 - Click on sort by name Z to A : [[ChromeDriver: chrome on WINDOWS (0a28c4fa36a0b40b88addb3319754006)] -> id: products-orderby]
+2023-05-16 10:05:113 INFO  DesktopPage :51 - Click on add to cart button [[ChromeDriver: chrome on WINDOWS (0a28c4fa36a0b40b88addb3319754006)] -> xpath: //div[@class='item-grid']//div[1]//div[1]//div[2]//div[3]//div[2]//button[1]]
+2023-05-16 10:05:227 INFO  BuildYourOwnComputerPage :69 - Build your own computer text : Build your own computer
+2023-05-16 10:05:366 INFO  BuildYourOwnComputerPage :75 - Select processor : 2.2 GHz Intel Pentium Dual-Core E2200
+2023-05-16 10:05:512 INFO  BuildYourOwnComputerPage :81 - Select Ram : 8GB [+$60.00]
+2023-05-16 10:05:629 INFO  BuildYourOwnComputerPage :87 - Select HDD : 400 GB [+$100.00]
+2023-05-16 10:05:640 INFO  BuildYourOwnComputerPage :94 - Select OS : Vista Premium [+$60.00]
+2023-05-16 10:05:648 INFO  BuildYourOwnComputerPage :100 - Select processor : Total Commander [+$5.00]
+2023-05-16 10:05:282 INFO  ComputersPage :24 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (510d1475aa61e52be17a00496fbdcafa)] -> xpath: //div[@class='block block-category-navigation']/descendant::a[2]]
+2023-05-16 10:05:458 INFO  DesktopPage :36 - Click on sort by name Z to A : [[ChromeDriver: chrome on WINDOWS (510d1475aa61e52be17a00496fbdcafa)] -> id: products-orderby]
+2023-05-16 10:05:673 INFO  DesktopPage :51 - Click on add to cart button [[ChromeDriver: chrome on WINDOWS (510d1475aa61e52be17a00496fbdcafa)] -> xpath: //div[@class='item-grid']//div[1]//div[1]//div[2]//div[3]//div[2]//button[1]]
+2023-05-16 10:05:109 INFO  BuildYourOwnComputerPage :69 - Build your own computer text : Build your own computer
+2023-05-16 10:05:265 INFO  BuildYourOwnComputerPage :75 - Select processor : 2.2 GHz Intel Pentium Dual-Core E2200
+2023-05-16 10:05:440 INFO  BuildYourOwnComputerPage :81 - Select Ram : 8GB [+$60.00]
+2023-05-16 10:05:550 INFO  BuildYourOwnComputerPage :87 - Select HDD : 400 GB [+$100.00]
+2023-05-16 10:05:566 INFO  BuildYourOwnComputerPage :94 - Select OS : Vista Premium [+$60.00]
+2023-05-16 10:05:577 INFO  BuildYourOwnComputerPage :100 - Select processor : Total Commander [+$5.00]
+2023-05-16 11:05:811 INFO  ComputersPage :24 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (30e5fcdd7a687472ce8ed9f8c4c76878)] -> xpath: //div[@class='block block-category-navigation']/descendant::a[2]]
+2023-05-16 11:05:975 INFO  DesktopPage :36 - Click on sort by name Z to A : [[ChromeDriver: chrome on WINDOWS (30e5fcdd7a687472ce8ed9f8c4c76878)] -> id: products-orderby]
+2023-05-16 11:05:97 INFO  DesktopPage :51 - Click on add to cart button [[ChromeDriver: chrome on WINDOWS (30e5fcdd7a687472ce8ed9f8c4c76878)] -> xpath: //div[@class='item-grid']//div[1]//div[1]//div[2]//div[3]//div[2]//button[1]]
+2023-05-16 11:05:103 INFO  BuildYourOwnComputerPage :69 - Build your own computer text : Build your own computer
+2023-05-16 11:05:247 INFO  BuildYourOwnComputerPage :75 - Select processor : 2.2 GHz Intel Pentium Dual-Core E2200
+2023-05-16 11:05:365 INFO  BuildYourOwnComputerPage :81 - Select Ram : 8GB [+$60.00]
+2023-05-16 11:05:477 INFO  BuildYourOwnComputerPage :87 - Select HDD : 400 GB [+$100.00]
+2023-05-16 11:05:552 INFO  BuildYourOwnComputerPage :93 - Select OS : Vista Premium [+$60.00]
+2023-05-16 11:05:615 INFO  BuildYourOwnComputerPage :99 - Select processor : Total Commander [+$5.00]
+2023-05-16 11:05:678 INFO  ComputersPage :24 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (82f3ca0f9468d10c021680808699cd01)] -> xpath: //div[@class='block block-category-navigation']/descendant::a[2]]
+2023-05-16 11:05:878 INFO  DesktopPage :36 - Click on sort by name Z to A : [[ChromeDriver: chrome on WINDOWS (82f3ca0f9468d10c021680808699cd01)] -> id: products-orderby]
+2023-05-16 11:05:63 INFO  DesktopPage :51 - Click on add to cart button [[ChromeDriver: chrome on WINDOWS (82f3ca0f9468d10c021680808699cd01)] -> xpath: //div[@class='item-grid']//div[1]//div[1]//div[2]//div[3]//div[2]//button[1]]
+2023-05-16 11:05:626 INFO  BuildYourOwnComputerPage :69 - Build your own computer text : Build your own computer
+2023-05-16 11:05:893 INFO  BuildYourOwnComputerPage :75 - Select processor : 2.2 GHz Intel Pentium Dual-Core E2200
+2023-05-16 11:05:136 INFO  BuildYourOwnComputerPage :81 - Select Ram : 8GB [+$60.00]
+2023-05-16 11:05:283 INFO  BuildYourOwnComputerPage :87 - Select HDD : 400 GB [+$100.00]
+2023-05-16 11:05:402 INFO  BuildYourOwnComputerPage :93 - Select OS : Vista Premium [+$60.00]
+2023-05-16 11:05:508 INFO  BuildYourOwnComputerPage :99 - Select processor : Total Commander [+$5.00]
+2023-05-16 11:05:224 INFO  ComputersPage :24 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (56c6d69c6ade76122e609d0732302700)] -> xpath: //div[@class='block block-category-navigation']/descendant::a[2]]
+2023-05-16 11:05:469 INFO  DesktopPage :36 - Click on sort by name Z to A : [[ChromeDriver: chrome on WINDOWS (56c6d69c6ade76122e609d0732302700)] -> id: products-orderby]
+2023-05-16 11:05:593 INFO  DesktopPage :51 - Click on add to cart button [[ChromeDriver: chrome on WINDOWS (56c6d69c6ade76122e609d0732302700)] -> xpath: //div[@class='item-grid']//div[1]//div[1]//div[2]//div[3]//div[2]//button[1]]
+2023-05-16 11:05:713 INFO  BuildYourOwnComputerPage :69 - Build your own computer text : Build your own computer
+2023-05-16 11:05:901 INFO  BuildYourOwnComputerPage :75 - Select processor : 2.2 GHz Intel Pentium Dual-Core E2200
+2023-05-16 11:05:107 INFO  BuildYourOwnComputerPage :81 - Select Ram : 8GB [+$60.00]
+2023-05-16 11:05:237 INFO  BuildYourOwnComputerPage :87 - Select HDD : 400 GB [+$100.00]
+2023-05-16 11:05:349 INFO  BuildYourOwnComputerPage :93 - Select OS : Vista Premium [+$60.00]
+2023-05-16 11:05:452 INFO  BuildYourOwnComputerPage :99 - Select processor : Total Commander [+$5.00]
+2023-05-16 11:05:49 INFO  ComputersPage :24 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (daa4b2c4ebd280b1e103f64577eca0b7)] -> xpath: //div[@class='block block-category-navigation']/descendant::a[2]]
+2023-05-16 11:05:239 INFO  DesktopPage :36 - Click on sort by name Z to A : [[ChromeDriver: chrome on WINDOWS (daa4b2c4ebd280b1e103f64577eca0b7)] -> id: products-orderby]
+2023-05-16 11:05:513 INFO  DesktopPage :51 - Click on add to cart button [[ChromeDriver: chrome on WINDOWS (daa4b2c4ebd280b1e103f64577eca0b7)] -> xpath: //div[@class='item-grid']//div[1]//div[1]//div[2]//div[3]//div[2]//button[1]]
+2023-05-16 11:05:819 INFO  BuildYourOwnComputerPage :69 - Build your own computer text : Build your own computer
+2023-05-16 11:05:961 INFO  BuildYourOwnComputerPage :75 - Select processor : 2.2 GHz Intel Pentium Dual-Core E2200
+2023-05-16 11:05:112 INFO  BuildYourOwnComputerPage :81 - Select Ram : 8GB [+$60.00]
+2023-05-16 11:05:235 INFO  BuildYourOwnComputerPage :87 - Select HDD : 400 GB [+$100.00]
+2023-05-16 11:05:326 INFO  BuildYourOwnComputerPage :93 - Select OS : Vista Premium [+$60.00]
+2023-05-16 11:05:406 INFO  BuildYourOwnComputerPage :99 - Select processor : Total Commander [+$5.00]
+2023-05-16 11:05:453 INFO  BuildYourOwnComputerPage :106 - Verify price $1,475.00
+2023-05-16 11:05:293 INFO  ComputersPage :24 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (f4321a2c6dbe54050147adf2631e7c2b)] -> xpath: //div[@class='block block-category-navigation']/descendant::a[2]]
+2023-05-16 11:05:488 INFO  DesktopPage :36 - Click on sort by name Z to A : [[ChromeDriver: chrome on WINDOWS (f4321a2c6dbe54050147adf2631e7c2b)] -> id: products-orderby]
+2023-05-16 11:05:602 INFO  DesktopPage :51 - Click on add to cart button [[ChromeDriver: chrome on WINDOWS (f4321a2c6dbe54050147adf2631e7c2b)] -> xpath: //div[@class='item-grid']//div[1]//div[1]//div[2]//div[3]//div[2]//button[1]]
+2023-05-16 11:05:838 INFO  BuildYourOwnComputerPage :69 - Build your own computer text : Build your own computer
+2023-05-16 11:05:14 INFO  BuildYourOwnComputerPage :75 - Select processor : 2.2 GHz Intel Pentium Dual-Core E2200
+2023-05-16 11:05:174 INFO  BuildYourOwnComputerPage :81 - Select Ram : 8GB [+$60.00]
+2023-05-16 11:05:304 INFO  BuildYourOwnComputerPage :87 - Select HDD : 400 GB [+$100.00]
+2023-05-16 11:05:398 INFO  BuildYourOwnComputerPage :93 - Select OS : Vista Premium [+$60.00]
+2023-05-16 11:05:519 INFO  BuildYourOwnComputerPage :99 - Select processor : Total Commander [+$5.00]
+2023-05-16 11:05:572 INFO  BuildYourOwnComputerPage :106 - Verify price $1,475.00
+2023-05-16 11:05:638 INFO  BuildYourOwnComputerPage :112 - Click on Add to Cart [[ChromeDriver: chrome on WINDOWS (f4321a2c6dbe54050147adf2631e7c2b)] -> id: add-to-cart-button-1]
+2023-05-16 11:05:915 INFO  BuildYourOwnComputerPage :118 - Verify add to cart message [[ChromeDriver: chrome on WINDOWS (f4321a2c6dbe54050147adf2631e7c2b)] -> xpath: //p[text()='The product has been added to your ']]
+2023-05-16 11:05:449 INFO  ComputersPage :24 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (c047099b7a4c199a8cdb6e16e0fb9a45)] -> xpath: //div[@class='block block-category-navigation']/descendant::a[2]]
+2023-05-16 11:05:623 INFO  DesktopPage :36 - Click on sort by name Z to A : [[ChromeDriver: chrome on WINDOWS (c047099b7a4c199a8cdb6e16e0fb9a45)] -> id: products-orderby]
+2023-05-16 11:05:714 INFO  DesktopPage :51 - Click on add to cart button [[ChromeDriver: chrome on WINDOWS (c047099b7a4c199a8cdb6e16e0fb9a45)] -> xpath: //div[@class='item-grid']//div[1]//div[1]//div[2]//div[3]//div[2]//button[1]]
+2023-05-16 11:05:651 INFO  BuildYourOwnComputerPage :69 - Build your own computer text : Build your own computer
+2023-05-16 11:05:789 INFO  BuildYourOwnComputerPage :75 - Select processor : 2.2 GHz Intel Pentium Dual-Core E2200
+2023-05-16 11:05:897 INFO  BuildYourOwnComputerPage :81 - Select Ram : 8GB [+$60.00]
+2023-05-16 11:05:998 INFO  BuildYourOwnComputerPage :87 - Select HDD : 400 GB [+$100.00]
+2023-05-16 11:05:77 INFO  BuildYourOwnComputerPage :93 - Select OS : Vista Premium [+$60.00]
+2023-05-16 11:05:146 INFO  BuildYourOwnComputerPage :99 - Select processor : Total Commander [+$5.00]
+2023-05-16 11:05:195 INFO  BuildYourOwnComputerPage :106 - Verify price $1,475.00
+2023-05-16 11:05:265 INFO  BuildYourOwnComputerPage :112 - Click on Add to Cart [[ChromeDriver: chrome on WINDOWS (c047099b7a4c199a8cdb6e16e0fb9a45)] -> id: add-to-cart-button-1]
+2023-05-16 11:05:602 INFO  BuildYourOwnComputerPage :118 - Verify add to cart message [[ChromeDriver: chrome on WINDOWS (c047099b7a4c199a8cdb6e16e0fb9a45)] -> xpath: //p[text()='The product has been added to your ']]
+2023-05-16 11:05:867 INFO  BuildYourOwnComputerPage :124 - Click on cross button [[ChromeDriver: chrome on WINDOWS (c047099b7a4c199a8cdb6e16e0fb9a45)] -> xpath: //span[@title='Close']]
+2023-05-16 11:05:298 INFO  BuildYourOwnComputerPage :130 - Mouse hover on shopping cart [[ChromeDriver: chrome on WINDOWS (c047099b7a4c199a8cdb6e16e0fb9a45)] -> xpath: //span[text()='Shopping cart']]
+2023-05-16 11:05:313 INFO  BuildYourOwnComputerPage :136 - Click on go to cart [[ChromeDriver: chrome on WINDOWS (c047099b7a4c199a8cdb6e16e0fb9a45)] -> xpath: //button[text()='Go to cart']]
+2023-05-16 11:05:475 INFO  ComputersPage :24 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (ce592f6c0e7e1a24c0d38d44d8072647)] -> xpath: //div[@class='block block-category-navigation']/descendant::a[2]]
+2023-05-16 11:05:624 INFO  DesktopPage :36 - Click on sort by name Z to A : [[ChromeDriver: chrome on WINDOWS (ce592f6c0e7e1a24c0d38d44d8072647)] -> id: products-orderby]
+2023-05-16 11:05:754 INFO  DesktopPage :51 - Click on add to cart button [[ChromeDriver: chrome on WINDOWS (ce592f6c0e7e1a24c0d38d44d8072647)] -> xpath: //div[@class='item-grid']//div[1]//div[1]//div[2]//div[3]//div[2]//button[1]]
+2023-05-16 11:05:816 INFO  BuildYourOwnComputerPage :69 - Build your own computer text : Build your own computer
+2023-05-16 11:05:929 INFO  BuildYourOwnComputerPage :75 - Select processor : 2.2 GHz Intel Pentium Dual-Core E2200
+2023-05-16 11:05:89 INFO  BuildYourOwnComputerPage :81 - Select Ram : 8GB [+$60.00]
+2023-05-16 11:05:192 INFO  BuildYourOwnComputerPage :87 - Select HDD : 400 GB [+$100.00]
+2023-05-16 11:05:290 INFO  BuildYourOwnComputerPage :93 - Select OS : Vista Premium [+$60.00]
+2023-05-16 11:05:348 INFO  BuildYourOwnComputerPage :99 - Select processor : Total Commander [+$5.00]
+2023-05-16 11:05:406 INFO  BuildYourOwnComputerPage :106 - Verify price $1,475.00
+2023-05-16 11:05:587 INFO  BuildYourOwnComputerPage :112 - Click on Add to Cart [[ChromeDriver: chrome on WINDOWS (ce592f6c0e7e1a24c0d38d44d8072647)] -> id: add-to-cart-button-1]
+2023-05-16 11:05:857 INFO  BuildYourOwnComputerPage :118 - Verify add to cart message [[ChromeDriver: chrome on WINDOWS (ce592f6c0e7e1a24c0d38d44d8072647)] -> xpath: //p[text()='The product has been added to your ']]
+2023-05-16 11:05:245 INFO  BuildYourOwnComputerPage :124 - Click on cross button [[ChromeDriver: chrome on WINDOWS (ce592f6c0e7e1a24c0d38d44d8072647)] -> xpath: //span[@title='Close']]
+2023-05-16 11:05:728 INFO  BuildYourOwnComputerPage :130 - Mouse hover on shopping cart [[ChromeDriver: chrome on WINDOWS (ce592f6c0e7e1a24c0d38d44d8072647)] -> xpath: //span[text()='Shopping cart']]
+2023-05-16 11:05:624 INFO  BuildYourOwnComputerPage :136 - Click on go to cart [[ChromeDriver: chrome on WINDOWS (ce592f6c0e7e1a24c0d38d44d8072647)] -> xpath: //button[text()='Go to cart']]
+2023-05-16 11:05:680 INFO  ShoppingCartPage :53 - Verify shopping cart title : Shopping cart
+2023-05-16 11:05:703 INFO  ComputersPage :24 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (88df8aa05d5cc672c64f90c05b03d00c)] -> xpath: //div[@class='block block-category-navigation']/descendant::a[2]]
+2023-05-16 11:05:876 INFO  DesktopPage :36 - Click on sort by name Z to A : [[ChromeDriver: chrome on WINDOWS (88df8aa05d5cc672c64f90c05b03d00c)] -> id: products-orderby]
+2023-05-16 11:05:955 INFO  DesktopPage :51 - Click on add to cart button [[ChromeDriver: chrome on WINDOWS (88df8aa05d5cc672c64f90c05b03d00c)] -> xpath: //div[@class='item-grid']//div[1]//div[1]//div[2]//div[3]//div[2]//button[1]]
+2023-05-16 11:05:11 INFO  BuildYourOwnComputerPage :69 - Build your own computer text : Build your own computer
+2023-05-16 11:05:160 INFO  BuildYourOwnComputerPage :75 - Select processor : 2.2 GHz Intel Pentium Dual-Core E2200
+2023-05-16 11:05:291 INFO  BuildYourOwnComputerPage :81 - Select Ram : 8GB [+$60.00]
+2023-05-16 11:05:415 INFO  BuildYourOwnComputerPage :87 - Select HDD : 400 GB [+$100.00]
+2023-05-16 11:05:526 INFO  BuildYourOwnComputerPage :93 - Select OS : Vista Premium [+$60.00]
+2023-05-16 11:05:637 INFO  BuildYourOwnComputerPage :99 - Select processor : Total Commander [+$5.00]
+2023-05-16 11:05:705 INFO  BuildYourOwnComputerPage :106 - Verify price $1,475.00
+2023-05-16 11:05:795 INFO  BuildYourOwnComputerPage :112 - Click on Add to Cart [[ChromeDriver: chrome on WINDOWS (88df8aa05d5cc672c64f90c05b03d00c)] -> id: add-to-cart-button-1]
+2023-05-16 11:05:83 INFO  BuildYourOwnComputerPage :118 - Verify add to cart message [[ChromeDriver: chrome on WINDOWS (88df8aa05d5cc672c64f90c05b03d00c)] -> xpath: //p[text()='The product has been added to your ']]
+2023-05-16 11:05:234 INFO  BuildYourOwnComputerPage :124 - Click on cross button [[ChromeDriver: chrome on WINDOWS (88df8aa05d5cc672c64f90c05b03d00c)] -> xpath: //span[@title='Close']]
+2023-05-16 11:05:681 INFO  BuildYourOwnComputerPage :130 - Mouse hover on shopping cart [[ChromeDriver: chrome on WINDOWS (88df8aa05d5cc672c64f90c05b03d00c)] -> xpath: //span[text()='Shopping cart']]
+2023-05-16 11:05:846 INFO  BuildYourOwnComputerPage :136 - Click on go to cart [[ChromeDriver: chrome on WINDOWS (88df8aa05d5cc672c64f90c05b03d00c)] -> xpath: //button[text()='Go to cart']]
+2023-05-16 11:05:936 INFO  ShoppingCartPage :53 - Verify shopping cart title : Shopping cart
+2023-05-16 11:05:173 INFO  ShoppingCartPage :60 - Change the quantity : 2[[ChromeDriver: chrome on WINDOWS (88df8aa05d5cc672c64f90c05b03d00c)] -> id: updatecart]
+2023-05-16 11:05:655 INFO  ComputersPage :24 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (2da56c5a805907ff0558fc76735f2512)] -> xpath: //div[@class='block block-category-navigation']/descendant::a[2]]
+2023-05-16 11:05:798 INFO  DesktopPage :36 - Click on sort by name Z to A : [[ChromeDriver: chrome on WINDOWS (2da56c5a805907ff0558fc76735f2512)] -> id: products-orderby]
+2023-05-16 11:05:05 INFO  DesktopPage :51 - Click on add to cart button [[ChromeDriver: chrome on WINDOWS (2da56c5a805907ff0558fc76735f2512)] -> xpath: //div[@class='item-grid']//div[1]//div[1]//div[2]//div[3]//div[2]//button[1]]
+2023-05-16 11:05:315 INFO  BuildYourOwnComputerPage :69 - Build your own computer text : Build your own computer
+2023-05-16 11:05:499 INFO  BuildYourOwnComputerPage :75 - Select processor : 2.2 GHz Intel Pentium Dual-Core E2200
+2023-05-16 11:05:652 INFO  BuildYourOwnComputerPage :81 - Select Ram : 8GB [+$60.00]
+2023-05-16 11:05:771 INFO  BuildYourOwnComputerPage :87 - Select HDD : 400 GB [+$100.00]
+2023-05-16 11:05:890 INFO  BuildYourOwnComputerPage :93 - Select OS : Vista Premium [+$60.00]
+2023-05-16 11:05:992 INFO  BuildYourOwnComputerPage :99 - Select processor : Total Commander [+$5.00]
+2023-05-16 11:05:30 INFO  BuildYourOwnComputerPage :106 - Verify price $1,475.00
+2023-05-16 11:05:115 INFO  BuildYourOwnComputerPage :112 - Click on Add to Cart [[ChromeDriver: chrome on WINDOWS (2da56c5a805907ff0558fc76735f2512)] -> id: add-to-cart-button-1]
+2023-05-16 11:05:372 INFO  BuildYourOwnComputerPage :118 - Verify add to cart message [[ChromeDriver: chrome on WINDOWS (2da56c5a805907ff0558fc76735f2512)] -> xpath: //p[text()='The product has been added to your ']]
+2023-05-16 11:05:705 INFO  BuildYourOwnComputerPage :124 - Click on cross button [[ChromeDriver: chrome on WINDOWS (2da56c5a805907ff0558fc76735f2512)] -> xpath: //span[@title='Close']]
+2023-05-16 11:05:168 INFO  BuildYourOwnComputerPage :130 - Mouse hover on shopping cart [[ChromeDriver: chrome on WINDOWS (2da56c5a805907ff0558fc76735f2512)] -> xpath: //span[text()='Shopping cart']]
+2023-05-16 11:05:98 INFO  BuildYourOwnComputerPage :136 - Click on go to cart [[ChromeDriver: chrome on WINDOWS (2da56c5a805907ff0558fc76735f2512)] -> xpath: //button[text()='Go to cart']]
+2023-05-16 11:05:154 INFO  ShoppingCartPage :53 - Verify shopping cart title : Shopping cart
+2023-05-16 11:05:19 INFO  ShoppingCartPage :60 - Change the quantity : 2[[ChromeDriver: chrome on WINDOWS (2da56c5a805907ff0558fc76735f2512)] -> id: updatecart]
+2023-05-16 11:05:82 INFO  ShoppingCartPage :66 - Verify total : $2,950.00
+2023-05-16 12:05:956 INFO  ComputersPage :24 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (d390719d9aae3f7aaa302be1f0035ff7)] -> xpath: //div[@class='block block-category-navigation']/descendant::a[2]]
+2023-05-16 12:05:99 INFO  DesktopPage :36 - Click on sort by name Z to A : [[ChromeDriver: chrome on WINDOWS (d390719d9aae3f7aaa302be1f0035ff7)] -> id: products-orderby]
+2023-05-16 12:05:372 INFO  DesktopPage :51 - Click on add to cart button [[ChromeDriver: chrome on WINDOWS (d390719d9aae3f7aaa302be1f0035ff7)] -> xpath: //div[@class='item-grid']//div[1]//div[1]//div[2]//div[3]//div[2]//button[1]]
+2023-05-16 12:05:487 INFO  BuildYourOwnComputerPage :69 - Build your own computer text : Build your own computer
+2023-05-16 12:05:599 INFO  BuildYourOwnComputerPage :75 - Select processor : 2.2 GHz Intel Pentium Dual-Core E2200
+2023-05-16 12:05:690 INFO  BuildYourOwnComputerPage :81 - Select Ram : 8GB [+$60.00]
+2023-05-16 12:05:781 INFO  BuildYourOwnComputerPage :87 - Select HDD : 400 GB [+$100.00]
+2023-05-16 12:05:853 INFO  BuildYourOwnComputerPage :93 - Select OS : Vista Premium [+$60.00]
+2023-05-16 12:05:937 INFO  BuildYourOwnComputerPage :99 - Select processor : Total Commander [+$5.00]
+2023-05-16 12:05:987 INFO  BuildYourOwnComputerPage :106 - Verify price $1,475.00
+2023-05-16 12:05:62 INFO  BuildYourOwnComputerPage :112 - Click on Add to Cart [[ChromeDriver: chrome on WINDOWS (d390719d9aae3f7aaa302be1f0035ff7)] -> id: add-to-cart-button-1]
+2023-05-16 12:05:364 INFO  BuildYourOwnComputerPage :118 - Verify add to cart message [[ChromeDriver: chrome on WINDOWS (d390719d9aae3f7aaa302be1f0035ff7)] -> xpath: //p[text()='The product has been added to your ']]
+2023-05-16 12:05:495 INFO  BuildYourOwnComputerPage :124 - Click on cross button [[ChromeDriver: chrome on WINDOWS (d390719d9aae3f7aaa302be1f0035ff7)] -> xpath: //span[@title='Close']]
+2023-05-16 12:05:990 INFO  BuildYourOwnComputerPage :130 - Mouse hover on shopping cart [[ChromeDriver: chrome on WINDOWS (d390719d9aae3f7aaa302be1f0035ff7)] -> xpath: //span[text()='Shopping cart']]
+2023-05-16 12:05:980 INFO  BuildYourOwnComputerPage :136 - Click on go to cart [[ChromeDriver: chrome on WINDOWS (d390719d9aae3f7aaa302be1f0035ff7)] -> xpath: //button[text()='Go to cart']]
+2023-05-16 12:05:27 INFO  ShoppingCartPage :53 - Verify shopping cart title : Shopping cart
+2023-05-16 12:05:713 INFO  ShoppingCartPage :60 - Change the quantity : 2[[ChromeDriver: chrome on WINDOWS (d390719d9aae3f7aaa302be1f0035ff7)] -> id: updatecart]
+2023-05-16 12:05:770 INFO  ShoppingCartPage :66 - Verify total : $2,950.00
+2023-05-16 12:05:881 INFO  ShoppingCartPage :72 - Click on terms of services [[ChromeDriver: chrome on WINDOWS (d390719d9aae3f7aaa302be1f0035ff7)] -> id: termsofservice]
+2023-05-16 12:05:651 INFO  ShoppingCartPage :78 - Check out button : [[ChromeDriver: chrome on WINDOWS (d390719d9aae3f7aaa302be1f0035ff7)] -> id: checkout]
+2023-05-16 14:05:765 INFO  ComputersPage :24 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (1d119da00f460a0d55c8a818ed4f2d24)] -> xpath: //div[@class='block block-category-navigation']/descendant::a[2]]
+2023-05-16 14:05:896 INFO  DesktopPage :36 - Click on sort by name Z to A : [[ChromeDriver: chrome on WINDOWS (1d119da00f460a0d55c8a818ed4f2d24)] -> id: products-orderby]
+2023-05-16 14:05:968 INFO  DesktopPage :51 - Click on add to cart button [[ChromeDriver: chrome on WINDOWS (1d119da00f460a0d55c8a818ed4f2d24)] -> xpath: //div[@class='item-grid']//div[1]//div[1]//div[2]//div[3]//div[2]//button[1]]
+2023-05-16 14:05:54 INFO  BuildYourOwnComputerPage :69 - Build your own computer text : Build your own computer
+2023-05-16 14:05:381 INFO  BuildYourOwnComputerPage :75 - Select processor : 2.2 GHz Intel Pentium Dual-Core E2200
+2023-05-16 14:05:534 INFO  BuildYourOwnComputerPage :81 - Select Ram : 8GB [+$60.00]
+2023-05-16 14:05:630 INFO  BuildYourOwnComputerPage :87 - Select HDD : 400 GB [+$100.00]
+2023-05-16 14:05:708 INFO  BuildYourOwnComputerPage :93 - Select OS : Vista Premium [+$60.00]
+2023-05-16 14:05:766 INFO  BuildYourOwnComputerPage :99 - Select processor : Total Commander [+$5.00]
+2023-05-16 14:05:831 INFO  BuildYourOwnComputerPage :106 - Verify price $1,475.00
+2023-05-16 14:05:883 INFO  BuildYourOwnComputerPage :112 - Click on Add to Cart [[ChromeDriver: chrome on WINDOWS (1d119da00f460a0d55c8a818ed4f2d24)] -> id: add-to-cart-button-1]
+2023-05-16 14:05:181 INFO  BuildYourOwnComputerPage :118 - Verify add to cart message [[ChromeDriver: chrome on WINDOWS (1d119da00f460a0d55c8a818ed4f2d24)] -> xpath: //p[text()='The product has been added to your ']]
+2023-05-16 14:05:300 INFO  BuildYourOwnComputerPage :124 - Click on cross button [[ChromeDriver: chrome on WINDOWS (1d119da00f460a0d55c8a818ed4f2d24)] -> xpath: //span[@title='Close']]
+2023-05-16 14:05:829 INFO  BuildYourOwnComputerPage :130 - Mouse hover on shopping cart [[ChromeDriver: chrome on WINDOWS (1d119da00f460a0d55c8a818ed4f2d24)] -> xpath: //span[text()='Shopping cart']]
+2023-05-16 14:05:90 INFO  BuildYourOwnComputerPage :136 - Click on go to cart [[ChromeDriver: chrome on WINDOWS (1d119da00f460a0d55c8a818ed4f2d24)] -> xpath: //button[text()='Go to cart']]
+2023-05-16 14:05:170 INFO  ShoppingCartPage :53 - Verify shopping cart title : Shopping cart
+2023-05-16 14:05:243 INFO  ShoppingCartPage :60 - Change the quantity : 2[[ChromeDriver: chrome on WINDOWS (1d119da00f460a0d55c8a818ed4f2d24)] -> id: updatecart]
+2023-05-16 14:05:301 INFO  ShoppingCartPage :66 - Verify total : $2,950.00
+2023-05-16 14:05:394 INFO  ShoppingCartPage :72 - Click on terms of services [[ChromeDriver: chrome on WINDOWS (1d119da00f460a0d55c8a818ed4f2d24)] -> id: termsofservice]
+2023-05-16 14:05:82 INFO  ShoppingCartPage :78 - Check out button : [[ChromeDriver: chrome on WINDOWS (1d119da00f460a0d55c8a818ed4f2d24)] -> id: checkout]
+2023-05-16 14:05:127 INFO  SignInPage :32 - Verify Welcome text : Welcome, Please Sign In!
+2023-05-16 14:05:788 INFO  SignInPage :37 - Check out as guest button[[ChromeDriver: chrome on WINDOWS (1d119da00f460a0d55c8a818ed4f2d24)] -> xpath: //button[text()='Checkout as Guest']]
+2023-05-16 14:05:886 INFO  CheckoutPage :142 - Input first name : fname
+2023-05-16 14:05:973 INFO  CheckoutPage :147 - Input last name : lname
+2023-05-16 14:05:60 INFO  CheckoutPage :152 - Input email : 52v347bbak@gmail.com
+2023-05-16 14:05:884 INFO  ComputersPage :24 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (eef17eb56414652c86eab8220e1a2d77)] -> xpath: //div[@class='block block-category-navigation']/descendant::a[2]]
+2023-05-16 14:05:37 INFO  DesktopPage :36 - Click on sort by name Z to A : [[ChromeDriver: chrome on WINDOWS (eef17eb56414652c86eab8220e1a2d77)] -> id: products-orderby]
+2023-05-16 14:05:104 INFO  DesktopPage :51 - Click on add to cart button [[ChromeDriver: chrome on WINDOWS (eef17eb56414652c86eab8220e1a2d77)] -> xpath: //div[@class='item-grid']//div[1]//div[1]//div[2]//div[3]//div[2]//button[1]]
+2023-05-16 14:05:02 INFO  BuildYourOwnComputerPage :69 - Build your own computer text : Build your own computer
+2023-05-16 14:05:104 INFO  BuildYourOwnComputerPage :75 - Select processor : 2.2 GHz Intel Pentium Dual-Core E2200
+2023-05-16 14:05:189 INFO  BuildYourOwnComputerPage :81 - Select Ram : 8GB [+$60.00]
+2023-05-16 14:05:256 INFO  BuildYourOwnComputerPage :87 - Select HDD : 400 GB [+$100.00]
+2023-05-16 14:05:320 INFO  BuildYourOwnComputerPage :93 - Select OS : Vista Premium [+$60.00]
+2023-05-16 14:05:393 INFO  BuildYourOwnComputerPage :99 - Select processor : Total Commander [+$5.00]
+2023-05-16 15:05:613 INFO  ComputersPage :24 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (088e8f450f0dfb96bd88ae857a435cf8)] -> xpath: //div[@class='block block-category-navigation']/descendant::a[2]]
+2023-05-16 15:05:728 INFO  DesktopPage :36 - Click on sort by name Z to A : [[ChromeDriver: chrome on WINDOWS (088e8f450f0dfb96bd88ae857a435cf8)] -> id: products-orderby]
+2023-05-16 15:05:795 INFO  DesktopPage :51 - Click on add to cart button [[ChromeDriver: chrome on WINDOWS (088e8f450f0dfb96bd88ae857a435cf8)] -> xpath: //div[@class='item-grid']//div[1]//div[1]//div[2]//div[3]//div[2]//button[1]]
+2023-05-16 15:05:658 INFO  BuildYourOwnComputerPage :69 - Build your own computer text : Build your own computer
+2023-05-16 15:05:772 INFO  BuildYourOwnComputerPage :75 - Select processor : 2.2 GHz Intel Pentium Dual-Core E2200
+2023-05-16 15:05:856 INFO  BuildYourOwnComputerPage :81 - Select Ram : 8GB [+$60.00]
+2023-05-16 15:05:916 INFO  BuildYourOwnComputerPage :87 - Select HDD : 400 GB [+$100.00]
+2023-05-16 15:05:00 INFO  BuildYourOwnComputerPage :93 - Select OS : Vista Premium [+$60.00]
+2023-05-16 15:05:60 INFO  BuildYourOwnComputerPage :99 - Select processor : Total Commander [+$5.00]
+2023-05-16 15:05:116 INFO  BuildYourOwnComputerPage :106 - Verify price $1,475.00
+2023-05-16 15:05:187 INFO  BuildYourOwnComputerPage :112 - Click on Add to Cart [[ChromeDriver: chrome on WINDOWS (088e8f450f0dfb96bd88ae857a435cf8)] -> id: add-to-cart-button-1]
+2023-05-16 15:05:435 INFO  BuildYourOwnComputerPage :118 - Verify add to cart message [[ChromeDriver: chrome on WINDOWS (088e8f450f0dfb96bd88ae857a435cf8)] -> xpath: //p[text()='The product has been added to your ']]
+2023-05-16 15:05:519 INFO  BuildYourOwnComputerPage :124 - Click on cross button [[ChromeDriver: chrome on WINDOWS (088e8f450f0dfb96bd88ae857a435cf8)] -> xpath: //span[@title='Close']]
+2023-05-16 15:05:734 INFO  BuildYourOwnComputerPage :130 - Mouse hover on shopping cart [[ChromeDriver: chrome on WINDOWS (088e8f450f0dfb96bd88ae857a435cf8)] -> xpath: //span[text()='Shopping cart']]
+2023-05-16 15:05:84 INFO  BuildYourOwnComputerPage :136 - Click on go to cart [[ChromeDriver: chrome on WINDOWS (088e8f450f0dfb96bd88ae857a435cf8)] -> xpath: //button[text()='Go to cart']]
+2023-05-16 15:05:136 INFO  ShoppingCartPage :53 - Verify shopping cart title : Shopping cart
+2023-05-16 15:05:785 INFO  ShoppingCartPage :60 - Change the quantity : 2[[ChromeDriver: chrome on WINDOWS (088e8f450f0dfb96bd88ae857a435cf8)] -> id: updatecart]
+2023-05-16 15:05:846 INFO  ShoppingCartPage :66 - Verify total : $2,950.00
+2023-05-16 15:05:960 INFO  ShoppingCartPage :72 - Click on terms of services [[ChromeDriver: chrome on WINDOWS (088e8f450f0dfb96bd88ae857a435cf8)] -> id: termsofservice]
+2023-05-16 15:05:592 INFO  ShoppingCartPage :78 - Check out button : [[ChromeDriver: chrome on WINDOWS (088e8f450f0dfb96bd88ae857a435cf8)] -> id: checkout]
+2023-05-16 15:05:624 INFO  SignInPage :32 - Verify Welcome text : Welcome, Please Sign In!
+2023-05-16 15:05:263 INFO  SignInPage :37 - Check out as guest button[[ChromeDriver: chrome on WINDOWS (088e8f450f0dfb96bd88ae857a435cf8)] -> xpath: //button[text()='Checkout as Guest']]
+2023-05-16 15:05:380 INFO  CheckoutPage :142 - Input first name : Ramesh
+2023-05-16 15:05:469 INFO  CheckoutPage :147 - Input last name : Patel
+2023-05-16 15:05:558 INFO  CheckoutPage :152 - Input email : Ramesh100Patel@gmail.com
+2023-05-16 15:05:657 INFO  CheckoutPage :157 - Input country : United Kingdom
+2023-05-16 15:05:740 INFO  CheckoutPage :162 - Input city : London
+2023-05-16 15:05:850 INFO  CheckoutPage :167 - Input Address : 123 High Street
+2023-05-16 15:05:942 INFO  CheckoutPage :172 - Input zip code : zipCode1
+2023-05-16 15:05:29 INFO  CheckoutPage :177 - Input telephone number : 12345678
+2023-05-16 15:05:453 INFO  ComputersPage :24 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (3d0c159a8168728493e4608e2ed99996)] -> xpath: //div[@class='block block-category-navigation']/descendant::a[2]]
+2023-05-16 15:05:579 INFO  DesktopPage :36 - Click on sort by name Z to A : [[ChromeDriver: chrome on WINDOWS (3d0c159a8168728493e4608e2ed99996)] -> id: products-orderby]
+2023-05-16 15:05:646 INFO  DesktopPage :51 - Click on add to cart button [[ChromeDriver: chrome on WINDOWS (3d0c159a8168728493e4608e2ed99996)] -> xpath: //div[@class='item-grid']//div[1]//div[1]//div[2]//div[3]//div[2]//button[1]]
+2023-05-16 15:05:456 INFO  BuildYourOwnComputerPage :69 - Build your own computer text : Build your own computer
+2023-05-16 15:05:564 INFO  BuildYourOwnComputerPage :75 - Select processor : 2.2 GHz Intel Pentium Dual-Core E2200
+2023-05-16 15:05:641 INFO  BuildYourOwnComputerPage :81 - Select Ram : 8GB [+$60.00]
+2023-05-16 15:05:706 INFO  BuildYourOwnComputerPage :87 - Select HDD : 400 GB [+$100.00]
+2023-05-16 15:05:777 INFO  BuildYourOwnComputerPage :93 - Select OS : Vista Premium [+$60.00]
+2023-05-16 15:05:827 INFO  BuildYourOwnComputerPage :99 - Select processor : Total Commander [+$5.00]
+2023-05-16 15:05:874 INFO  BuildYourOwnComputerPage :106 - Verify price $1,475.00
+2023-05-16 15:05:946 INFO  BuildYourOwnComputerPage :112 - Click on Add to Cart [[ChromeDriver: chrome on WINDOWS (3d0c159a8168728493e4608e2ed99996)] -> id: add-to-cart-button-1]
+2023-05-16 15:05:269 INFO  BuildYourOwnComputerPage :118 - Verify add to cart message [[ChromeDriver: chrome on WINDOWS (3d0c159a8168728493e4608e2ed99996)] -> xpath: //p[text()='The product has been added to your ']]
+2023-05-16 15:05:651 INFO  BuildYourOwnComputerPage :124 - Click on cross button [[ChromeDriver: chrome on WINDOWS (3d0c159a8168728493e4608e2ed99996)] -> xpath: //span[@title='Close']]
+2023-05-16 15:05:65 INFO  BuildYourOwnComputerPage :130 - Mouse hover on shopping cart [[ChromeDriver: chrome on WINDOWS (3d0c159a8168728493e4608e2ed99996)] -> xpath: //span[text()='Shopping cart']]
+2023-05-16 15:05:855 INFO  BuildYourOwnComputerPage :136 - Click on go to cart [[ChromeDriver: chrome on WINDOWS (3d0c159a8168728493e4608e2ed99996)] -> xpath: //button[text()='Go to cart']]
+2023-05-16 15:05:892 INFO  ShoppingCartPage :53 - Verify shopping cart title : Shopping cart
+2023-05-16 15:05:499 INFO  ShoppingCartPage :60 - Change the quantity : 2[[ChromeDriver: chrome on WINDOWS (3d0c159a8168728493e4608e2ed99996)] -> id: updatecart]
+2023-05-16 15:05:529 INFO  ShoppingCartPage :66 - Verify total : $2,950.00
+2023-05-16 15:05:611 INFO  ShoppingCartPage :72 - Click on terms of services [[ChromeDriver: chrome on WINDOWS (3d0c159a8168728493e4608e2ed99996)] -> id: termsofservice]
+2023-05-16 15:05:182 INFO  ShoppingCartPage :78 - Check out button : [[ChromeDriver: chrome on WINDOWS (3d0c159a8168728493e4608e2ed99996)] -> id: checkout]
+2023-05-16 15:05:220 INFO  SignInPage :32 - Verify Welcome text : Welcome, Please Sign In!
+2023-05-16 15:05:855 INFO  SignInPage :37 - Check out as guest button[[ChromeDriver: chrome on WINDOWS (3d0c159a8168728493e4608e2ed99996)] -> xpath: //button[text()='Checkout as Guest']]
+2023-05-16 15:05:946 INFO  CheckoutPage :142 - Input first name : Ramesh
+2023-05-16 15:05:44 INFO  CheckoutPage :147 - Input last name : Patel
+2023-05-16 15:05:146 INFO  CheckoutPage :152 - Input email : Ramesh100Patel@gmail.com
+2023-05-16 15:05:232 INFO  CheckoutPage :157 - Input country : United Kingdom
+2023-05-16 15:05:317 INFO  CheckoutPage :162 - Input city : London
+2023-05-16 15:05:395 INFO  CheckoutPage :167 - Input Address : 123 High Street
+2023-05-16 15:05:477 INFO  CheckoutPage :172 - Input zip code : zipCode1
+2023-05-16 15:05:580 INFO  CheckoutPage :177 - Input telephone number : 12345678
+2023-05-16 15:05:635 INFO  CheckoutPage :182 - Click on continue button : [[ChromeDriver: chrome on WINDOWS (3d0c159a8168728493e4608e2ed99996)] -> xpath: //button[@onclick='Billing.save()']]
+2023-05-16 15:05:966 INFO  CheckoutPage :187 - Click on next day air radio button : [[ChromeDriver: chrome on WINDOWS (3d0c159a8168728493e4608e2ed99996)] -> id: shippingoption_1]
+2023-05-16 15:05:19 INFO  CheckoutPage :192 - Click on continue shipping button : [[ChromeDriver: chrome on WINDOWS (3d0c159a8168728493e4608e2ed99996)] -> xpath: //button[@class='button-1 shipping-method-next-step-button']]
+2023-05-16 15:05:322 INFO  CheckoutPage :197 - Click on credit card : [[ChromeDriver: chrome on WINDOWS (3d0c159a8168728493e4608e2ed99996)] -> id: paymentmethod_1]
+2023-05-16 15:05:370 INFO  CheckoutPage :202 - Click on payment continue [[ChromeDriver: chrome on WINDOWS (3d0c159a8168728493e4608e2ed99996)] -> xpath: //button[@name='save' and @class='button-1 payment-method-next-step-button']]
+2023-05-16 15:05:182 INFO  ComputersPage :24 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (dd4f78cd17202720329f9d592332acc7)] -> xpath: //div[@class='block block-category-navigation']/descendant::a[2]]
+2023-05-16 15:05:301 INFO  DesktopPage :36 - Click on sort by name Z to A : [[ChromeDriver: chrome on WINDOWS (dd4f78cd17202720329f9d592332acc7)] -> id: products-orderby]
+2023-05-16 15:05:360 INFO  DesktopPage :51 - Click on add to cart button [[ChromeDriver: chrome on WINDOWS (dd4f78cd17202720329f9d592332acc7)] -> xpath: //div[@class='item-grid']//div[1]//div[1]//div[2]//div[3]//div[2]//button[1]]
+2023-05-16 15:05:19 INFO  BuildYourOwnComputerPage :69 - Build your own computer text : Build your own computer
+2023-05-16 15:05:126 INFO  BuildYourOwnComputerPage :75 - Select processor : 2.2 GHz Intel Pentium Dual-Core E2200
+2023-05-16 15:05:219 INFO  BuildYourOwnComputerPage :81 - Select Ram : 8GB [+$60.00]
+2023-05-16 15:05:293 INFO  BuildYourOwnComputerPage :87 - Select HDD : 400 GB [+$100.00]
+2023-05-16 15:05:364 INFO  BuildYourOwnComputerPage :93 - Select OS : Vista Premium [+$60.00]
+2023-05-16 15:05:419 INFO  BuildYourOwnComputerPage :99 - Select processor : Total Commander [+$5.00]
+2023-05-16 15:05:456 INFO  BuildYourOwnComputerPage :106 - Verify price $1,475.00
+2023-05-16 15:05:503 INFO  BuildYourOwnComputerPage :112 - Click on Add to Cart [[ChromeDriver: chrome on WINDOWS (dd4f78cd17202720329f9d592332acc7)] -> id: add-to-cart-button-1]
+2023-05-16 15:05:770 INFO  BuildYourOwnComputerPage :118 - Verify add to cart message [[ChromeDriver: chrome on WINDOWS (dd4f78cd17202720329f9d592332acc7)] -> xpath: //p[text()='The product has been added to your ']]
+2023-05-16 15:05:872 INFO  BuildYourOwnComputerPage :124 - Click on cross button [[ChromeDriver: chrome on WINDOWS (dd4f78cd17202720329f9d592332acc7)] -> xpath: //span[@title='Close']]
+2023-05-16 15:05:153 INFO  BuildYourOwnComputerPage :130 - Mouse hover on shopping cart [[ChromeDriver: chrome on WINDOWS (dd4f78cd17202720329f9d592332acc7)] -> xpath: //span[text()='Shopping cart']]
+2023-05-16 15:05:486 INFO  BuildYourOwnComputerPage :136 - Click on go to cart [[ChromeDriver: chrome on WINDOWS (dd4f78cd17202720329f9d592332acc7)] -> xpath: //button[text()='Go to cart']]
+2023-05-16 15:05:527 INFO  ShoppingCartPage :53 - Verify shopping cart title : Shopping cart
+2023-05-16 15:05:161 INFO  ShoppingCartPage :60 - Change the quantity : 2[[ChromeDriver: chrome on WINDOWS (dd4f78cd17202720329f9d592332acc7)] -> id: updatecart]
+2023-05-16 15:05:208 INFO  ShoppingCartPage :66 - Verify total : $2,950.00
+2023-05-16 15:05:271 INFO  ShoppingCartPage :72 - Click on terms of services [[ChromeDriver: chrome on WINDOWS (dd4f78cd17202720329f9d592332acc7)] -> id: termsofservice]
+2023-05-16 15:05:860 INFO  ShoppingCartPage :78 - Check out button : [[ChromeDriver: chrome on WINDOWS (dd4f78cd17202720329f9d592332acc7)] -> id: checkout]
+2023-05-16 15:05:896 INFO  SignInPage :32 - Verify Welcome text : Welcome, Please Sign In!
+2023-05-16 15:05:574 INFO  SignInPage :37 - Check out as guest button[[ChromeDriver: chrome on WINDOWS (dd4f78cd17202720329f9d592332acc7)] -> xpath: //button[text()='Checkout as Guest']]
+2023-05-16 15:05:682 INFO  CheckoutPage :142 - Input first name : Ramesh
+2023-05-16 15:05:773 INFO  CheckoutPage :147 - Input last name : Patel
+2023-05-16 15:05:868 INFO  CheckoutPage :152 - Input email : Ramesh100Patel@gmail.com
+2023-05-16 15:05:964 INFO  CheckoutPage :157 - Input country : United Kingdom
+2023-05-16 15:05:48 INFO  CheckoutPage :162 - Input city : London
+2023-05-16 15:05:146 INFO  CheckoutPage :167 - Input Address : 123 High Street
+2023-05-16 15:05:231 INFO  CheckoutPage :172 - Input zip code : zipCode1
+2023-05-16 15:05:313 INFO  CheckoutPage :177 - Input telephone number : 12345678
+2023-05-16 15:05:371 INFO  CheckoutPage :182 - Click on continue button : [[ChromeDriver: chrome on WINDOWS (dd4f78cd17202720329f9d592332acc7)] -> xpath: //button[@onclick='Billing.save()']]
+2023-05-16 15:05:731 INFO  CheckoutPage :187 - Click on next day air radio button : [[ChromeDriver: chrome on WINDOWS (dd4f78cd17202720329f9d592332acc7)] -> id: shippingoption_1]
+2023-05-16 15:05:798 INFO  CheckoutPage :192 - Click on continue shipping button : [[ChromeDriver: chrome on WINDOWS (dd4f78cd17202720329f9d592332acc7)] -> xpath: //button[@class='button-1 shipping-method-next-step-button']]
+2023-05-16 15:05:88 INFO  CheckoutPage :197 - Click on credit card : [[ChromeDriver: chrome on WINDOWS (dd4f78cd17202720329f9d592332acc7)] -> id: paymentmethod_1]
+2023-05-16 15:05:142 INFO  CheckoutPage :202 - Click on payment continue [[ChromeDriver: chrome on WINDOWS (dd4f78cd17202720329f9d592332acc7)] -> xpath: //button[@name='save' and @class='button-1 payment-method-next-step-button']]
+2023-05-16 15:05:288 INFO  CheckoutPage :208 - Select credit card : [[ChromeDriver: chrome on WINDOWS (dd4f78cd17202720329f9d592332acc7)] -> id: CreditCardType]
+2023-05-16 15:05:366 INFO  CheckoutPage :213 - Input card holder name : Lisa Webb
+2023-05-16 15:05:470 INFO  CheckoutPage :218 - Input card number: 5356654814185420
+2023-05-16 15:05:585 INFO  CheckoutPage :223 - Select expire month : 09
+2023-05-16 15:05:660 INFO  CheckoutPage :228 - Select expire year : [[ChromeDriver: chrome on WINDOWS (dd4f78cd17202720329f9d592332acc7)] -> id: ExpireYear]
+2023-05-16 15:05:721 INFO  CheckoutPage :233 - Input card holder : 123
+2023-05-16 15:05:440 INFO  ComputersPage :24 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (29383600a94de6c341789a632ab45656)] -> xpath: //div[@class='block block-category-navigation']/descendant::a[2]]
+2023-05-16 15:05:572 INFO  DesktopPage :36 - Click on sort by name Z to A : [[ChromeDriver: chrome on WINDOWS (29383600a94de6c341789a632ab45656)] -> id: products-orderby]
+2023-05-16 15:05:646 INFO  DesktopPage :51 - Click on add to cart button [[ChromeDriver: chrome on WINDOWS (29383600a94de6c341789a632ab45656)] -> xpath: //div[@class='item-grid']//div[1]//div[1]//div[2]//div[3]//div[2]//button[1]]
+2023-05-16 15:05:467 INFO  BuildYourOwnComputerPage :69 - Build your own computer text : Build your own computer
+2023-05-16 15:05:565 INFO  BuildYourOwnComputerPage :75 - Select processor : 2.2 GHz Intel Pentium Dual-Core E2200
+2023-05-16 15:05:650 INFO  BuildYourOwnComputerPage :81 - Select Ram : 8GB [+$60.00]
+2023-05-16 15:05:719 INFO  BuildYourOwnComputerPage :87 - Select HDD : 400 GB [+$100.00]
+2023-05-16 15:05:786 INFO  BuildYourOwnComputerPage :93 - Select OS : Vista Premium [+$60.00]
+2023-05-16 15:05:836 INFO  BuildYourOwnComputerPage :99 - Select processor : Total Commander [+$5.00]
+2023-05-16 15:05:892 INFO  BuildYourOwnComputerPage :106 - Verify price $1,475.00
+2023-05-16 15:05:961 INFO  BuildYourOwnComputerPage :112 - Click on Add to Cart [[ChromeDriver: chrome on WINDOWS (29383600a94de6c341789a632ab45656)] -> id: add-to-cart-button-1]
+2023-05-16 15:05:213 INFO  BuildYourOwnComputerPage :118 - Verify add to cart message [[ChromeDriver: chrome on WINDOWS (29383600a94de6c341789a632ab45656)] -> xpath: //p[text()='The product has been added to your ']]
+2023-05-16 15:05:322 INFO  BuildYourOwnComputerPage :124 - Click on cross button [[ChromeDriver: chrome on WINDOWS (29383600a94de6c341789a632ab45656)] -> xpath: //span[@title='Close']]
+2023-05-16 15:05:510 INFO  BuildYourOwnComputerPage :130 - Mouse hover on shopping cart [[ChromeDriver: chrome on WINDOWS (29383600a94de6c341789a632ab45656)] -> xpath: //span[text()='Shopping cart']]
+2023-05-16 15:05:858 INFO  BuildYourOwnComputerPage :136 - Click on go to cart [[ChromeDriver: chrome on WINDOWS (29383600a94de6c341789a632ab45656)] -> xpath: //button[text()='Go to cart']]
+2023-05-16 15:05:896 INFO  ShoppingCartPage :53 - Verify shopping cart title : Shopping cart
+2023-05-16 15:05:434 INFO  ShoppingCartPage :60 - Change the quantity : 2[[ChromeDriver: chrome on WINDOWS (29383600a94de6c341789a632ab45656)] -> id: updatecart]
+2023-05-16 15:05:475 INFO  ShoppingCartPage :66 - Verify total : $2,950.00
+2023-05-16 15:05:537 INFO  ShoppingCartPage :72 - Click on terms of services [[ChromeDriver: chrome on WINDOWS (29383600a94de6c341789a632ab45656)] -> id: termsofservice]
+2023-05-16 15:05:124 INFO  ShoppingCartPage :78 - Check out button : [[ChromeDriver: chrome on WINDOWS (29383600a94de6c341789a632ab45656)] -> id: checkout]
+2023-05-16 15:05:160 INFO  SignInPage :32 - Verify Welcome text : Welcome, Please Sign In!
+2023-05-16 15:05:788 INFO  SignInPage :37 - Check out as guest button[[ChromeDriver: chrome on WINDOWS (29383600a94de6c341789a632ab45656)] -> xpath: //button[text()='Checkout as Guest']]
+2023-05-16 15:05:894 INFO  CheckoutPage :142 - Input first name : Ramesh
+2023-05-16 15:05:982 INFO  CheckoutPage :147 - Input last name : Patel
+2023-05-16 15:05:89 INFO  CheckoutPage :152 - Input email : Ramesh100Patel@gmail.com
+2023-05-16 15:05:201 INFO  CheckoutPage :157 - Input country : United Kingdom
+2023-05-16 15:05:284 INFO  CheckoutPage :162 - Input city : London
+2023-05-16 15:05:375 INFO  CheckoutPage :167 - Input Address : 123 High Street
+2023-05-16 15:05:456 INFO  CheckoutPage :172 - Input zip code : zipCode1
+2023-05-16 15:05:551 INFO  CheckoutPage :177 - Input telephone number : 12345678
+2023-05-16 15:05:603 INFO  CheckoutPage :182 - Click on continue button : [[ChromeDriver: chrome on WINDOWS (29383600a94de6c341789a632ab45656)] -> xpath: //button[@onclick='Billing.save()']]
+2023-05-16 15:05:963 INFO  CheckoutPage :187 - Click on next day air radio button : [[ChromeDriver: chrome on WINDOWS (29383600a94de6c341789a632ab45656)] -> id: shippingoption_1]
+2023-05-16 15:05:18 INFO  CheckoutPage :192 - Click on continue shipping button : [[ChromeDriver: chrome on WINDOWS (29383600a94de6c341789a632ab45656)] -> xpath: //button[@class='button-1 shipping-method-next-step-button']]
+2023-05-16 15:05:301 INFO  CheckoutPage :197 - Click on credit card : [[ChromeDriver: chrome on WINDOWS (29383600a94de6c341789a632ab45656)] -> id: paymentmethod_1]
+2023-05-16 15:05:355 INFO  CheckoutPage :202 - Click on payment continue [[ChromeDriver: chrome on WINDOWS (29383600a94de6c341789a632ab45656)] -> xpath: //button[@name='save' and @class='button-1 payment-method-next-step-button']]
+2023-05-16 15:05:474 INFO  CheckoutPage :208 - Select credit card : [[ChromeDriver: chrome on WINDOWS (29383600a94de6c341789a632ab45656)] -> id: CreditCardType]
+2023-05-16 15:05:546 INFO  CheckoutPage :213 - Input card holder name : Lisa Webb
+2023-05-16 15:05:608 INFO  CheckoutPage :218 - Input card number: 5356654814185420
+2023-05-16 15:05:708 INFO  CheckoutPage :223 - Select expire month : 09
+2023-05-16 15:05:791 INFO  CheckoutPage :228 - Select expire year : [[ChromeDriver: chrome on WINDOWS (29383600a94de6c341789a632ab45656)] -> id: ExpireYear]
+2023-05-16 15:05:850 INFO  CheckoutPage :233 - Input card holder : 123
+2023-05-16 15:05:895 INFO  CheckoutPage :238 - Click on continue card payment : [[ChromeDriver: chrome on WINDOWS (29383600a94de6c341789a632ab45656)] -> xpath: //button[@class='button-1 payment-info-next-step-button']]
+2023-05-16 15:05:181 INFO  CheckoutPage :243 - Verify payment method : Credit Card
+2023-05-16 15:05:115 INFO  ComputersPage :24 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (0451594f6cbc1be5fd43022f849cc8af)] -> xpath: //div[@class='block block-category-navigation']/descendant::a[2]]
+2023-05-16 15:05:255 INFO  DesktopPage :36 - Click on sort by name Z to A : [[ChromeDriver: chrome on WINDOWS (0451594f6cbc1be5fd43022f849cc8af)] -> id: products-orderby]
+2023-05-16 15:05:325 INFO  DesktopPage :51 - Click on add to cart button [[ChromeDriver: chrome on WINDOWS (0451594f6cbc1be5fd43022f849cc8af)] -> xpath: //div[@class='item-grid']//div[1]//div[1]//div[2]//div[3]//div[2]//button[1]]
+2023-05-16 15:05:156 INFO  BuildYourOwnComputerPage :69 - Build your own computer text : Build your own computer
+2023-05-16 15:05:263 INFO  BuildYourOwnComputerPage :75 - Select processor : 2.2 GHz Intel Pentium Dual-Core E2200
+2023-05-16 15:05:351 INFO  BuildYourOwnComputerPage :81 - Select Ram : 8GB [+$60.00]
+2023-05-16 15:05:423 INFO  BuildYourOwnComputerPage :87 - Select HDD : 400 GB [+$100.00]
+2023-05-16 15:05:480 INFO  BuildYourOwnComputerPage :93 - Select OS : Vista Premium [+$60.00]
+2023-05-16 15:05:537 INFO  BuildYourOwnComputerPage :99 - Select processor : Total Commander [+$5.00]
+2023-05-16 15:05:586 INFO  BuildYourOwnComputerPage :106 - Verify price $1,475.00
+2023-05-16 15:05:647 INFO  BuildYourOwnComputerPage :112 - Click on Add to Cart [[ChromeDriver: chrome on WINDOWS (0451594f6cbc1be5fd43022f849cc8af)] -> id: add-to-cart-button-1]
+2023-05-16 15:05:956 INFO  BuildYourOwnComputerPage :118 - Verify add to cart message [[ChromeDriver: chrome on WINDOWS (0451594f6cbc1be5fd43022f849cc8af)] -> xpath: //p[text()='The product has been added to your ']]
+2023-05-16 15:05:54 INFO  BuildYourOwnComputerPage :124 - Click on cross button [[ChromeDriver: chrome on WINDOWS (0451594f6cbc1be5fd43022f849cc8af)] -> xpath: //span[@title='Close']]
+2023-05-16 15:05:247 INFO  BuildYourOwnComputerPage :130 - Mouse hover on shopping cart [[ChromeDriver: chrome on WINDOWS (0451594f6cbc1be5fd43022f849cc8af)] -> xpath: //span[text()='Shopping cart']]
+2023-05-16 15:05:575 INFO  BuildYourOwnComputerPage :136 - Click on go to cart [[ChromeDriver: chrome on WINDOWS (0451594f6cbc1be5fd43022f849cc8af)] -> xpath: //button[text()='Go to cart']]
+2023-05-16 15:05:614 INFO  ShoppingCartPage :53 - Verify shopping cart title : Shopping cart
+2023-05-16 15:05:177 INFO  ShoppingCartPage :60 - Change the quantity : 2[[ChromeDriver: chrome on WINDOWS (0451594f6cbc1be5fd43022f849cc8af)] -> id: updatecart]
+2023-05-16 15:05:218 INFO  ShoppingCartPage :66 - Verify total : $2,950.00
+2023-05-16 15:05:270 INFO  ShoppingCartPage :72 - Click on terms of services [[ChromeDriver: chrome on WINDOWS (0451594f6cbc1be5fd43022f849cc8af)] -> id: termsofservice]
+2023-05-16 15:05:876 INFO  ShoppingCartPage :78 - Check out button : [[ChromeDriver: chrome on WINDOWS (0451594f6cbc1be5fd43022f849cc8af)] -> id: checkout]
+2023-05-16 15:05:916 INFO  SignInPage :32 - Verify Welcome text : Welcome, Please Sign In!
+2023-05-16 15:05:647 INFO  SignInPage :37 - Check out as guest button[[ChromeDriver: chrome on WINDOWS (0451594f6cbc1be5fd43022f849cc8af)] -> xpath: //button[text()='Checkout as Guest']]
+2023-05-16 15:05:743 INFO  CheckoutPage :142 - Input first name : Ramesh
+2023-05-16 15:05:829 INFO  CheckoutPage :147 - Input last name : Patel
+2023-05-16 15:05:912 INFO  CheckoutPage :152 - Input email : Ramesh100Patel@gmail.com
+2023-05-16 15:05:26 INFO  CheckoutPage :157 - Input country : United Kingdom
+2023-05-16 15:05:105 INFO  CheckoutPage :162 - Input city : London
+2023-05-16 15:05:176 INFO  CheckoutPage :167 - Input Address : 123 High Street
+2023-05-16 15:05:256 INFO  CheckoutPage :172 - Input zip code : zipCode1
+2023-05-16 15:05:327 INFO  CheckoutPage :177 - Input telephone number : 12345678
+2023-05-16 15:05:381 INFO  CheckoutPage :182 - Click on continue button : [[ChromeDriver: chrome on WINDOWS (0451594f6cbc1be5fd43022f849cc8af)] -> xpath: //button[@onclick='Billing.save()']]
+2023-05-16 15:05:726 INFO  CheckoutPage :187 - Click on next day air radio button : [[ChromeDriver: chrome on WINDOWS (0451594f6cbc1be5fd43022f849cc8af)] -> id: shippingoption_1]
+2023-05-16 15:05:777 INFO  CheckoutPage :192 - Click on continue shipping button : [[ChromeDriver: chrome on WINDOWS (0451594f6cbc1be5fd43022f849cc8af)] -> xpath: //button[@class='button-1 shipping-method-next-step-button']]
+2023-05-16 15:05:71 INFO  CheckoutPage :197 - Click on credit card : [[ChromeDriver: chrome on WINDOWS (0451594f6cbc1be5fd43022f849cc8af)] -> id: paymentmethod_1]
+2023-05-16 15:05:130 INFO  CheckoutPage :202 - Click on payment continue [[ChromeDriver: chrome on WINDOWS (0451594f6cbc1be5fd43022f849cc8af)] -> xpath: //button[@name='save' and @class='button-1 payment-method-next-step-button']]
+2023-05-16 15:05:264 INFO  CheckoutPage :208 - Select credit card : [[ChromeDriver: chrome on WINDOWS (0451594f6cbc1be5fd43022f849cc8af)] -> id: CreditCardType]
+2023-05-16 15:05:334 INFO  CheckoutPage :213 - Input card holder name : Lisa Webb
+2023-05-16 15:05:396 INFO  CheckoutPage :218 - Input card number: 5356654814185420
+2023-05-16 15:05:490 INFO  CheckoutPage :223 - Select expire month : 09
+2023-05-16 15:05:558 INFO  CheckoutPage :228 - Select expire year : [[ChromeDriver: chrome on WINDOWS (0451594f6cbc1be5fd43022f849cc8af)] -> id: ExpireYear]
+2023-05-16 15:05:617 INFO  CheckoutPage :233 - Input card holder : 123
+2023-05-16 15:05:663 INFO  CheckoutPage :238 - Click on continue card payment : [[ChromeDriver: chrome on WINDOWS (0451594f6cbc1be5fd43022f849cc8af)] -> xpath: //button[@class='button-1 payment-info-next-step-button']]
+2023-05-16 15:05:985 INFO  CheckoutPage :243 - Verify payment method : Credit Card
+2023-05-16 15:05:08 INFO  CheckoutPage :248 - Verify shipping method : Next Day Air
+2023-05-16 15:05:24 INFO  CheckoutPage :253 - Verify total : $2,950.00
+2023-05-16 15:05:85 INFO  CheckoutPage :258 - Click on confirm : [[ChromeDriver: chrome on WINDOWS (0451594f6cbc1be5fd43022f849cc8af)] -> xpath: //button[contains(text(),'Confirm')]]
+2023-05-16 15:05:807 INFO  ComputersPage :24 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (576aa5f00438a5989ec778e54d62ba01)] -> xpath: //div[@class='block block-category-navigation']/descendant::a[2]]
+2023-05-16 15:05:937 INFO  DesktopPage :36 - Click on sort by name Z to A : [[ChromeDriver: chrome on WINDOWS (576aa5f00438a5989ec778e54d62ba01)] -> id: products-orderby]
+2023-05-16 15:05:38 INFO  DesktopPage :51 - Click on add to cart button [[ChromeDriver: chrome on WINDOWS (576aa5f00438a5989ec778e54d62ba01)] -> xpath: //div[@class='item-grid']//div[1]//div[1]//div[2]//div[3]//div[2]//button[1]]
+2023-05-16 15:05:844 INFO  BuildYourOwnComputerPage :69 - Build your own computer text : Build your own computer
+2023-05-16 15:05:974 INFO  BuildYourOwnComputerPage :75 - Select processor : 2.2 GHz Intel Pentium Dual-Core E2200
+2023-05-16 15:05:57 INFO  BuildYourOwnComputerPage :81 - Select Ram : 8GB [+$60.00]
+2023-05-16 15:05:127 INFO  BuildYourOwnComputerPage :87 - Select HDD : 400 GB [+$100.00]
+2023-05-16 15:05:191 INFO  BuildYourOwnComputerPage :93 - Select OS : Vista Premium [+$60.00]
+2023-05-16 15:05:258 INFO  BuildYourOwnComputerPage :99 - Select processor : Total Commander [+$5.00]
+2023-05-16 15:05:309 INFO  BuildYourOwnComputerPage :106 - Verify price $1,475.00
+2023-05-16 15:05:392 INFO  BuildYourOwnComputerPage :112 - Click on Add to Cart [[ChromeDriver: chrome on WINDOWS (576aa5f00438a5989ec778e54d62ba01)] -> id: add-to-cart-button-1]
+2023-05-16 15:05:646 INFO  BuildYourOwnComputerPage :118 - Verify add to cart message [[ChromeDriver: chrome on WINDOWS (576aa5f00438a5989ec778e54d62ba01)] -> xpath: //p[text()='The product has been added to your ']]
+2023-05-16 15:05:774 INFO  BuildYourOwnComputerPage :124 - Click on cross button [[ChromeDriver: chrome on WINDOWS (576aa5f00438a5989ec778e54d62ba01)] -> xpath: //span[@title='Close']]
+2023-05-16 15:05:976 INFO  BuildYourOwnComputerPage :130 - Mouse hover on shopping cart [[ChromeDriver: chrome on WINDOWS (576aa5f00438a5989ec778e54d62ba01)] -> xpath: //span[text()='Shopping cart']]
+2023-05-16 15:05:294 INFO  BuildYourOwnComputerPage :136 - Click on go to cart [[ChromeDriver: chrome on WINDOWS (576aa5f00438a5989ec778e54d62ba01)] -> xpath: //button[text()='Go to cart']]
+2023-05-16 15:05:337 INFO  ShoppingCartPage :53 - Verify shopping cart title : Shopping cart
+2023-05-16 15:05:923 INFO  ShoppingCartPage :60 - Change the quantity : 2[[ChromeDriver: chrome on WINDOWS (576aa5f00438a5989ec778e54d62ba01)] -> id: updatecart]
+2023-05-16 15:05:966 INFO  ShoppingCartPage :66 - Verify total : $2,950.00
+2023-05-16 15:05:28 INFO  ShoppingCartPage :72 - Click on terms of services [[ChromeDriver: chrome on WINDOWS (576aa5f00438a5989ec778e54d62ba01)] -> id: termsofservice]
+2023-05-16 15:05:597 INFO  ShoppingCartPage :78 - Check out button : [[ChromeDriver: chrome on WINDOWS (576aa5f00438a5989ec778e54d62ba01)] -> id: checkout]
+2023-05-16 15:05:639 INFO  SignInPage :32 - Verify Welcome text : Welcome, Please Sign In!
+2023-05-16 15:05:262 INFO  SignInPage :37 - Check out as guest button[[ChromeDriver: chrome on WINDOWS (576aa5f00438a5989ec778e54d62ba01)] -> xpath: //button[text()='Checkout as Guest']]
+2023-05-16 15:05:356 INFO  CheckoutPage :142 - Input first name : Ramesh
+2023-05-16 15:05:437 INFO  CheckoutPage :147 - Input last name : Patel
+2023-05-16 15:05:538 INFO  CheckoutPage :152 - Input email : Ramesh100Patel@gmail.com
+2023-05-16 15:05:624 INFO  CheckoutPage :157 - Input country : United Kingdom
+2023-05-16 15:05:703 INFO  CheckoutPage :162 - Input city : London
+2023-05-16 15:05:786 INFO  CheckoutPage :167 - Input Address : 123 High Street
+2023-05-16 15:05:874 INFO  CheckoutPage :172 - Input zip code : zipCode1
+2023-05-16 15:05:956 INFO  CheckoutPage :177 - Input telephone number : 12345678
+2023-05-16 15:05:11 INFO  CheckoutPage :182 - Click on continue button : [[ChromeDriver: chrome on WINDOWS (576aa5f00438a5989ec778e54d62ba01)] -> xpath: //button[@onclick='Billing.save()']]
+2023-05-16 15:05:356 INFO  CheckoutPage :187 - Click on next day air radio button : [[ChromeDriver: chrome on WINDOWS (576aa5f00438a5989ec778e54d62ba01)] -> id: shippingoption_1]
+2023-05-16 15:05:422 INFO  CheckoutPage :192 - Click on continue shipping button : [[ChromeDriver: chrome on WINDOWS (576aa5f00438a5989ec778e54d62ba01)] -> xpath: //button[@class='button-1 shipping-method-next-step-button']]
+2023-05-16 15:05:706 INFO  CheckoutPage :197 - Click on credit card : [[ChromeDriver: chrome on WINDOWS (576aa5f00438a5989ec778e54d62ba01)] -> id: paymentmethod_1]
+2023-05-16 15:05:753 INFO  CheckoutPage :202 - Click on payment continue [[ChromeDriver: chrome on WINDOWS (576aa5f00438a5989ec778e54d62ba01)] -> xpath: //button[@name='save' and @class='button-1 payment-method-next-step-button']]
+2023-05-16 15:05:841 INFO  CheckoutPage :208 - Select credit card : [[ChromeDriver: chrome on WINDOWS (576aa5f00438a5989ec778e54d62ba01)] -> id: CreditCardType]
+2023-05-16 15:05:921 INFO  CheckoutPage :213 - Input card holder name : Lisa Webb
+2023-05-16 15:05:08 INFO  CheckoutPage :218 - Input card number: 5356654814185420
+2023-05-16 15:05:92 INFO  CheckoutPage :223 - Select expire month : 09
+2023-05-16 15:05:163 INFO  CheckoutPage :228 - Select expire year : [[ChromeDriver: chrome on WINDOWS (576aa5f00438a5989ec778e54d62ba01)] -> id: ExpireYear]
+2023-05-16 15:05:227 INFO  CheckoutPage :233 - Input card holder : 123
+2023-05-16 15:05:274 INFO  CheckoutPage :238 - Click on continue card payment : [[ChromeDriver: chrome on WINDOWS (576aa5f00438a5989ec778e54d62ba01)] -> xpath: //button[@class='button-1 payment-info-next-step-button']]
+2023-05-16 15:05:549 INFO  CheckoutPage :243 - Verify payment method : Credit Card
+2023-05-16 15:05:587 INFO  CheckoutPage :248 - Verify shipping method : Next Day Air
+2023-05-16 15:05:605 INFO  CheckoutPage :253 - Verify total : $2,950.00
+2023-05-16 15:05:671 INFO  CheckoutPage :258 - Click on confirm : [[ChromeDriver: chrome on WINDOWS (576aa5f00438a5989ec778e54d62ba01)] -> xpath: //button[contains(text(),'Confirm')]]
+2023-05-16 15:05:343 INFO  CheckoutPage :263 - Verify thank you  : Thank you
+2023-05-16 15:05:371 INFO  CheckoutPage :268 - Verify order confirmation : Your order has been successfully processed!
+2023-05-16 15:05:787 INFO  CheckoutPage :273 - Click on continue button : [[ChromeDriver: chrome on WINDOWS (576aa5f00438a5989ec778e54d62ba01)] -> xpath: //button[contains(text(),'Continue')]]
+2023-05-16 15:05:829 INFO  HomePage :121 - Verify the welcome page : Welcome to our store
+2023-05-16 15:05:639 INFO  HomePage :141 - Mouse hover on electronics [[ChromeDriver: chrome on WINDOWS (2d4f79c40aabe6a099163fc82d33db68)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Electronics']]
+2023-05-16 15:05:685 INFO  HomePage :146 - Mouse hover on electronics [[ChromeDriver: chrome on WINDOWS (2d4f79c40aabe6a099163fc82d33db68)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Cell phones']]
+2023-05-16 15:05:751 INFO  CellPhonesPage :31 - Verify text : Cell phones
+2023-05-16 16:05:301 INFO  HomePage :141 - Mouse hover on electronics [[ChromeDriver: chrome on WINDOWS (fb1e4e5635fa083aea9c537e3f911b3d)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Electronics']]
+2023-05-16 16:05:361 INFO  HomePage :146 - Mouse hover on electronics [[ChromeDriver: chrome on WINDOWS (fb1e4e5635fa083aea9c537e3f911b3d)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Cell phones']]
+2023-05-16 16:05:433 INFO  CellPhonesPage :31 - Verify text : Cell phones
+2023-05-16 16:05:518 INFO  CellPhonesPage :36 - Click on list : [[ChromeDriver: chrome on WINDOWS (fb1e4e5635fa083aea9c537e3f911b3d)] -> xpath: //a[contains(text(),'List')]]
+2023-05-16 16:05:404 INFO  HomePage :141 - Mouse hover on electronics [[ChromeDriver: chrome on WINDOWS (067b7cab1398a970eecab5064c57cc63)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Electronics']]
+2023-05-16 16:05:563 INFO  HomePage :146 - Mouse hover on electronics [[ChromeDriver: chrome on WINDOWS (067b7cab1398a970eecab5064c57cc63)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Cell phones']]
+2023-05-16 16:05:610 INFO  CellPhonesPage :31 - Verify text : Cell phones
+2023-05-16 16:05:708 INFO  CellPhonesPage :36 - Click on list : [[ChromeDriver: chrome on WINDOWS (067b7cab1398a970eecab5064c57cc63)] -> xpath: //a[contains(text(),'List')]]
+2023-05-16 16:05:88 INFO  HomePage :141 - Mouse hover on electronics [[ChromeDriver: chrome on WINDOWS (fabec686e0ff213fce253cbace5f22dc)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Electronics']]
+2023-05-16 16:05:105 INFO  HomePage :146 - Mouse hover on electronics [[ChromeDriver: chrome on WINDOWS (fabec686e0ff213fce253cbace5f22dc)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Cell phones']]
+2023-05-16 16:05:170 INFO  CellPhonesPage :31 - Verify text : Cell phones
+2023-05-16 16:05:232 INFO  CellPhonesPage :36 - Click on list : [[ChromeDriver: chrome on WINDOWS (fabec686e0ff213fce253cbace5f22dc)] -> xpath: //a[contains(text(),'List')]]
+2023-05-16 16:05:397 INFO  HomePage :141 - Mouse hover on electronics [[ChromeDriver: chrome on WINDOWS (c041fb99b37b8383995820e286008131)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Electronics']]
+2023-05-16 16:05:579 INFO  HomePage :146 - Mouse hover on electronics [[ChromeDriver: chrome on WINDOWS (c041fb99b37b8383995820e286008131)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Cell phones']]
+2023-05-16 16:05:662 INFO  CellPhonesPage :31 - Verify text : Cell phones
+2023-05-16 16:05:762 INFO  CellPhonesPage :36 - Click on list : [[ChromeDriver: chrome on WINDOWS (c041fb99b37b8383995820e286008131)] -> xpath: //a[contains(text(),'List')]]
+2023-05-16 16:05:482 INFO  HomePage :141 - Mouse hover on electronics [[ChromeDriver: chrome on WINDOWS (731f83167d5228df5641f954fea7aa23)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Electronics']]
+2023-05-16 16:05:624 INFO  HomePage :146 - Mouse hover on electronics [[ChromeDriver: chrome on WINDOWS (731f83167d5228df5641f954fea7aa23)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Cell phones']]
+2023-05-16 16:05:683 INFO  CellPhonesPage :31 - Verify text : Cell phones
+2023-05-16 16:05:772 INFO  CellPhonesPage :36 - Click on list : [[ChromeDriver: chrome on WINDOWS (731f83167d5228df5641f954fea7aa23)] -> xpath: //a[contains(text(),'List')]]
+2023-05-16 16:05:504 INFO  HomePage :141 - Mouse hover on electronics [[ChromeDriver: chrome on WINDOWS (2aee2b7076301b6ddddec99ce594f11f)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Electronics']]
+2023-05-16 16:05:575 INFO  HomePage :146 - Mouse hover on electronics [[ChromeDriver: chrome on WINDOWS (2aee2b7076301b6ddddec99ce594f11f)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Cell phones']]
+2023-05-16 16:05:649 INFO  CellPhonesPage :31 - Verify text : Cell phones
+2023-05-16 16:05:723 INFO  CellPhonesPage :36 - Click on list : [[ChromeDriver: chrome on WINDOWS (2aee2b7076301b6ddddec99ce594f11f)] -> xpath: //a[contains(text(),'List')]]
+2023-05-16 16:05:176 INFO  HomePage :141 - Mouse hover on electronics [[ChromeDriver: chrome on WINDOWS (2d4462a91aabbbf9c7219b5669249c6a)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Electronics']]
+2023-05-16 16:05:181 INFO  HomePage :146 - Mouse hover on electronics [[ChromeDriver: chrome on WINDOWS (2d4462a91aabbbf9c7219b5669249c6a)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Cell phones']]
+2023-05-16 16:05:231 INFO  CellPhonesPage :31 - Verify text : Cell phones
+2023-05-16 16:05:295 INFO  CellPhonesPage :36 - Click on list : [[ChromeDriver: chrome on WINDOWS (2d4462a91aabbbf9c7219b5669249c6a)] -> xpath: //a[contains(text(),'List')]]
+2023-05-16 17:05:563 INFO  HomePage :141 - Mouse hover on electronics [[ChromeDriver: chrome on WINDOWS (d8e5dc7c849beb2d09daa5a71954ca39)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Electronics']]
+2023-05-16 17:05:769 INFO  HomePage :146 - Mouse hover on electronics [[ChromeDriver: chrome on WINDOWS (d8e5dc7c849beb2d09daa5a71954ca39)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Cell phones']]
+2023-05-16 17:05:849 INFO  CellPhonesPage :31 - Verify text : Cell phones
+2023-05-16 17:05:978 INFO  CellPhonesPage :36 - Click on list : [[ChromeDriver: chrome on WINDOWS (d8e5dc7c849beb2d09daa5a71954ca39)] -> xpath: //a[contains(text(),'List')]]
+2023-05-16 17:05:306 INFO  CellPhonesPage :41 - Click on nokia lumia : [[ChromeDriver: chrome on WINDOWS (d8e5dc7c849beb2d09daa5a71954ca39)] -> xpath: //div[@class='picture']//img[@title='Show details for Nokia Lumia 1020']]
+2023-05-16 17:05:793 INFO  HomePage :141 - Mouse hover on electronics [[ChromeDriver: chrome on WINDOWS (bad9505ef216db4b68d6ca4f51d47f45)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Electronics']]
+2023-05-16 17:05:957 INFO  HomePage :146 - Mouse hover on electronics [[ChromeDriver: chrome on WINDOWS (bad9505ef216db4b68d6ca4f51d47f45)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Cell phones']]
+2023-05-16 17:05:266 INFO  CellPhonesPage :31 - Verify text : Cell phones
+2023-05-16 17:05:469 INFO  CellPhonesPage :36 - Click on list : [[ChromeDriver: chrome on WINDOWS (bad9505ef216db4b68d6ca4f51d47f45)] -> xpath: //a[contains(text(),'List')]]
+2023-05-16 17:05:549 INFO  CellPhonesPage :41 - Click on nokia lumia : [[ChromeDriver: chrome on WINDOWS (bad9505ef216db4b68d6ca4f51d47f45)] -> xpath: //div[@class='picture']//img[@title='Show details for Nokia Lumia 1020']]
+2023-05-16 17:05:615 INFO  NokiaLumiaPage :52 - Verify text : Nokia Lumia 1020
+2023-05-16 17:05:662 INFO  NokiaLumiaPage :57 - Verify text : $349.00
+2023-05-16 17:05:355 INFO  HomePage :141 - Mouse hover on electronics [[ChromeDriver: chrome on WINDOWS (9120c1df37dc1104af125285638cb467)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Electronics']]
+2023-05-16 17:05:90 INFO  HomePage :146 - Mouse hover on electronics [[ChromeDriver: chrome on WINDOWS (9120c1df37dc1104af125285638cb467)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Cell phones']]
+2023-05-16 17:05:175 INFO  CellPhonesPage :31 - Verify text : Cell phones
+2023-05-16 17:05:279 INFO  CellPhonesPage :36 - Click on list : [[ChromeDriver: chrome on WINDOWS (9120c1df37dc1104af125285638cb467)] -> xpath: //a[contains(text(),'List')]]
+2023-05-16 17:05:280 INFO  CellPhonesPage :41 - Click on nokia lumia : [[ChromeDriver: chrome on WINDOWS (9120c1df37dc1104af125285638cb467)] -> xpath: //div[@class='picture']//img[@title='Show details for Nokia Lumia 1020']]
+2023-05-16 17:05:338 INFO  NokiaLumiaPage :52 - Verify text : Nokia Lumia 1020
+2023-05-16 17:05:376 INFO  NokiaLumiaPage :57 - Verify text : $349.00
+2023-05-16 17:05:532 INFO  NokiaLumiaPage :62 - Change Quantity : 2
+2023-05-16 17:05:675 INFO  NokiaLumiaPage :67 - Click on cart button : [[ChromeDriver: chrome on WINDOWS (9120c1df37dc1104af125285638cb467)] -> id: add-to-cart-button-20]
+2023-05-16 17:05:653 INFO  HomePage :141 - Mouse hover on electronics [[ChromeDriver: chrome on WINDOWS (0bf1cc934e1824bae2fe7347a5db72aa)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Electronics']]
+2023-05-16 17:05:330 INFO  HomePage :146 - Mouse hover on electronics [[ChromeDriver: chrome on WINDOWS (0bf1cc934e1824bae2fe7347a5db72aa)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Cell phones']]
+2023-05-16 17:05:391 INFO  CellPhonesPage :31 - Verify text : Cell phones
+2023-05-16 17:05:493 INFO  CellPhonesPage :36 - Click on list : [[ChromeDriver: chrome on WINDOWS (0bf1cc934e1824bae2fe7347a5db72aa)] -> xpath: //a[contains(text(),'List')]]
+2023-05-16 17:05:419 INFO  CellPhonesPage :41 - Click on nokia lumia : [[ChromeDriver: chrome on WINDOWS (0bf1cc934e1824bae2fe7347a5db72aa)] -> xpath: //div[@class='picture']//img[@title='Show details for Nokia Lumia 1020']]
+2023-05-16 17:05:471 INFO  NokiaLumiaPage :52 - Verify text : Nokia Lumia 1020
+2023-05-16 17:05:511 INFO  NokiaLumiaPage :57 - Verify text : $349.00
+2023-05-16 17:05:676 INFO  NokiaLumiaPage :62 - Change Quantity : 2
+2023-05-16 17:05:795 INFO  NokiaLumiaPage :67 - Click on cart button : [[ChromeDriver: chrome on WINDOWS (0bf1cc934e1824bae2fe7347a5db72aa)] -> id: add-to-cart-button-20]
+2023-05-16 17:05:24 INFO  NokiaLumiaPage :72 - Verify text : The product has been added to your shopping cart
+2023-05-16 17:05:392 INFO  NokiaLumiaPage :77 - Click on green button : [[ChromeDriver: chrome on WINDOWS (0bf1cc934e1824bae2fe7347a5db72aa)] -> css selector: span[title='Close']]
+2023-05-16 17:05:170 INFO  HomePage :141 - Mouse hover on electronics [[ChromeDriver: chrome on WINDOWS (7426cf960ca2e929468488900728d67a)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Electronics']]
+2023-05-16 17:05:239 INFO  HomePage :146 - Mouse hover on electronics [[ChromeDriver: chrome on WINDOWS (7426cf960ca2e929468488900728d67a)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Cell phones']]
+2023-05-16 17:05:320 INFO  CellPhonesPage :31 - Verify text : Cell phones
+2023-05-16 17:05:440 INFO  CellPhonesPage :36 - Click on list : [[ChromeDriver: chrome on WINDOWS (7426cf960ca2e929468488900728d67a)] -> xpath: //a[contains(text(),'List')]]
+2023-05-16 17:05:406 INFO  CellPhonesPage :41 - Click on nokia lumia : [[ChromeDriver: chrome on WINDOWS (7426cf960ca2e929468488900728d67a)] -> xpath: //div[@class='picture']//img[@title='Show details for Nokia Lumia 1020']]
+2023-05-16 17:05:469 INFO  NokiaLumiaPage :52 - Verify text : Nokia Lumia 1020
+2023-05-16 17:05:516 INFO  NokiaLumiaPage :57 - Verify text : $349.00
+2023-05-16 17:05:676 INFO  NokiaLumiaPage :62 - Change Quantity : 2
+2023-05-16 17:05:806 INFO  NokiaLumiaPage :67 - Click on cart button : [[ChromeDriver: chrome on WINDOWS (7426cf960ca2e929468488900728d67a)] -> id: add-to-cart-button-20]
+2023-05-16 17:05:88 INFO  NokiaLumiaPage :72 - Verify text : The product has been added to your shopping cart
+2023-05-16 17:05:440 INFO  NokiaLumiaPage :77 - Click on green button : [[ChromeDriver: chrome on WINDOWS (7426cf960ca2e929468488900728d67a)] -> css selector: span[title='Close']]
+2023-05-16 17:05:690 INFO  NokiaLumiaPage :82 - Mouse hover on shopping cart : [[ChromeDriver: chrome on WINDOWS (7426cf960ca2e929468488900728d67a)] -> xpath: //span[text()='Shopping cart']]
+2023-05-16 17:05:762 INFO  NokiaLumiaPage :87 - Click on go to cart : [[ChromeDriver: chrome on WINDOWS (7426cf960ca2e929468488900728d67a)] -> xpath: //button[text()='Go to cart']]
+2023-05-16 17:05:795 INFO  HomePage :141 - Mouse hover on electronics [[ChromeDriver: chrome on WINDOWS (729a453d42561508bdddaf1b6bfcbd2b)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Electronics']]
+2023-05-16 17:05:515 INFO  HomePage :146 - Mouse hover on electronics [[ChromeDriver: chrome on WINDOWS (729a453d42561508bdddaf1b6bfcbd2b)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Cell phones']]
+2023-05-16 17:05:596 INFO  CellPhonesPage :31 - Verify text : Cell phones
+2023-05-16 17:05:691 INFO  CellPhonesPage :36 - Click on list : [[ChromeDriver: chrome on WINDOWS (729a453d42561508bdddaf1b6bfcbd2b)] -> xpath: //a[contains(text(),'List')]]
+2023-05-16 17:05:769 INFO  CellPhonesPage :41 - Click on nokia lumia : [[ChromeDriver: chrome on WINDOWS (729a453d42561508bdddaf1b6bfcbd2b)] -> xpath: //div[@class='picture']//img[@title='Show details for Nokia Lumia 1020']]
+2023-05-16 17:05:814 INFO  NokiaLumiaPage :52 - Verify text : Nokia Lumia 1020
+2023-05-16 17:05:850 INFO  NokiaLumiaPage :57 - Verify text : $349.00
+2023-05-16 17:05:995 INFO  NokiaLumiaPage :62 - Change Quantity : 2
+2023-05-16 17:05:119 INFO  NokiaLumiaPage :67 - Click on cart button : [[ChromeDriver: chrome on WINDOWS (729a453d42561508bdddaf1b6bfcbd2b)] -> id: add-to-cart-button-20]
+2023-05-16 17:05:357 INFO  NokiaLumiaPage :72 - Verify text : The product has been added to your shopping cart
+2023-05-16 17:05:663 INFO  NokiaLumiaPage :77 - Click on green button : [[ChromeDriver: chrome on WINDOWS (729a453d42561508bdddaf1b6bfcbd2b)] -> css selector: span[title='Close']]
+2023-05-16 17:05:46 INFO  NokiaLumiaPage :82 - Mouse hover on shopping cart : [[ChromeDriver: chrome on WINDOWS (729a453d42561508bdddaf1b6bfcbd2b)] -> xpath: //span[text()='Shopping cart']]
+2023-05-16 17:05:130 INFO  NokiaLumiaPage :87 - Click on go to cart : [[ChromeDriver: chrome on WINDOWS (729a453d42561508bdddaf1b6bfcbd2b)] -> xpath: //button[text()='Go to cart']]
+2023-05-16 17:05:187 INFO  ShoppingCartPage :53 - Verify shopping cart title : Shopping cart
+2023-05-16 17:05:253 INFO  ShoppingCartPage :90 - Verify quantity for nokia : 2
+2023-05-16 17:05:331 INFO  HomePage :141 - Mouse hover on electronics [[ChromeDriver: chrome on WINDOWS (cedb0d5b8d36509189c5dac220630114)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Electronics']]
+2023-05-16 17:05:84 INFO  HomePage :146 - Mouse hover on electronics [[ChromeDriver: chrome on WINDOWS (cedb0d5b8d36509189c5dac220630114)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Cell phones']]
+2023-05-16 17:05:130 INFO  CellPhonesPage :31 - Verify text : Cell phones
+2023-05-16 17:05:225 INFO  CellPhonesPage :36 - Click on list : [[ChromeDriver: chrome on WINDOWS (cedb0d5b8d36509189c5dac220630114)] -> xpath: //a[contains(text(),'List')]]
+2023-05-16 17:05:407 INFO  CellPhonesPage :41 - Click on nokia lumia : [[ChromeDriver: chrome on WINDOWS (cedb0d5b8d36509189c5dac220630114)] -> xpath: //div[@class='picture']//img[@title='Show details for Nokia Lumia 1020']]
+2023-05-16 17:05:469 INFO  NokiaLumiaPage :52 - Verify text : Nokia Lumia 1020
+2023-05-16 17:05:528 INFO  NokiaLumiaPage :57 - Verify text : $349.00
+2023-05-16 17:05:718 INFO  NokiaLumiaPage :62 - Change Quantity : 2
+2023-05-16 17:05:846 INFO  NokiaLumiaPage :67 - Click on cart button : [[ChromeDriver: chrome on WINDOWS (cedb0d5b8d36509189c5dac220630114)] -> id: add-to-cart-button-20]
+2023-05-16 17:05:115 INFO  NokiaLumiaPage :72 - Verify text : The product has been added to your shopping cart
+2023-05-16 17:05:303 INFO  NokiaLumiaPage :77 - Click on green button : [[ChromeDriver: chrome on WINDOWS (cedb0d5b8d36509189c5dac220630114)] -> css selector: span[title='Close']]
+2023-05-16 17:05:637 INFO  NokiaLumiaPage :82 - Mouse hover on shopping cart : [[ChromeDriver: chrome on WINDOWS (cedb0d5b8d36509189c5dac220630114)] -> xpath: //span[text()='Shopping cart']]
+2023-05-16 17:05:900 INFO  NokiaLumiaPage :87 - Click on go to cart : [[ChromeDriver: chrome on WINDOWS (cedb0d5b8d36509189c5dac220630114)] -> xpath: //button[text()='Go to cart']]
+2023-05-16 17:05:976 INFO  ShoppingCartPage :53 - Verify shopping cart title : Shopping cart
+2023-05-16 17:05:47 INFO  ShoppingCartPage :90 - Verify quantity for nokia : 2
+2023-05-16 17:05:106 INFO  ShoppingCartPage :66 - Verify total : $698.00
+2023-05-16 17:05:89 INFO  HomePage :141 - Mouse hover on electronics [[ChromeDriver: chrome on WINDOWS (7d28cdc1b0045f3b918549306b4f4b8f)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Electronics']]
+2023-05-16 17:05:357 INFO  HomePage :146 - Mouse hover on electronics [[ChromeDriver: chrome on WINDOWS (7d28cdc1b0045f3b918549306b4f4b8f)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Cell phones']]
+2023-05-16 17:05:471 INFO  CellPhonesPage :31 - Verify text : Cell phones
+2023-05-16 17:05:595 INFO  CellPhonesPage :36 - Click on list : [[ChromeDriver: chrome on WINDOWS (7d28cdc1b0045f3b918549306b4f4b8f)] -> xpath: //a[contains(text(),'List')]]
+2023-05-16 17:05:541 INFO  CellPhonesPage :41 - Click on nokia lumia : [[ChromeDriver: chrome on WINDOWS (7d28cdc1b0045f3b918549306b4f4b8f)] -> xpath: //div[@class='picture']//img[@title='Show details for Nokia Lumia 1020']]
+2023-05-16 17:05:621 INFO  NokiaLumiaPage :52 - Verify text : Nokia Lumia 1020
+2023-05-16 17:05:696 INFO  NokiaLumiaPage :57 - Verify text : $349.00
+2023-05-16 17:05:278 INFO  NokiaLumiaPage :62 - Change Quantity : 2
+2023-05-16 17:05:396 INFO  NokiaLumiaPage :67 - Click on cart button : [[ChromeDriver: chrome on WINDOWS (7d28cdc1b0045f3b918549306b4f4b8f)] -> id: add-to-cart-button-20]
+2023-05-16 17:05:797 INFO  NokiaLumiaPage :72 - Verify text : The product has been added to your shopping cart
+2023-05-16 17:05:197 INFO  NokiaLumiaPage :77 - Click on green button : [[ChromeDriver: chrome on WINDOWS (7d28cdc1b0045f3b918549306b4f4b8f)] -> css selector: span[title='Close']]
+2023-05-16 17:05:464 INFO  NokiaLumiaPage :82 - Mouse hover on shopping cart : [[ChromeDriver: chrome on WINDOWS (7d28cdc1b0045f3b918549306b4f4b8f)] -> xpath: //span[text()='Shopping cart']]
+2023-05-16 17:05:495 INFO  NokiaLumiaPage :87 - Click on go to cart : [[ChromeDriver: chrome on WINDOWS (7d28cdc1b0045f3b918549306b4f4b8f)] -> xpath: //button[text()='Go to cart']]
+2023-05-16 17:05:582 INFO  ShoppingCartPage :53 - Verify shopping cart title : Shopping cart
+2023-05-16 17:05:697 INFO  ShoppingCartPage :90 - Verify quantity for nokia : 2
+2023-05-16 17:05:811 INFO  ShoppingCartPage :66 - Verify total : $698.00
+2023-05-16 17:05:339 INFO  ShoppingCartPage :72 - Click on terms of services [[ChromeDriver: chrome on WINDOWS (7d28cdc1b0045f3b918549306b4f4b8f)] -> id: termsofservice]
+2023-05-16 17:05:156 INFO  ShoppingCartPage :78 - Check out button : [[ChromeDriver: chrome on WINDOWS (7d28cdc1b0045f3b918549306b4f4b8f)] -> id: checkout]
+2023-05-16 17:05:468 INFO  HomePage :141 - Mouse hover on electronics [[ChromeDriver: chrome on WINDOWS (cbb9288a551ed0211cf1b564e5124d6f)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Electronics']]
+2023-05-16 17:05:541 INFO  HomePage :146 - Mouse hover on electronics [[ChromeDriver: chrome on WINDOWS (cbb9288a551ed0211cf1b564e5124d6f)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Cell phones']]
+2023-05-16 17:05:607 INFO  CellPhonesPage :31 - Verify text : Cell phones
+2023-05-16 17:05:705 INFO  CellPhonesPage :36 - Click on list : [[ChromeDriver: chrome on WINDOWS (cbb9288a551ed0211cf1b564e5124d6f)] -> xpath: //a[contains(text(),'List')]]
+2023-05-16 17:05:691 INFO  CellPhonesPage :41 - Click on nokia lumia : [[ChromeDriver: chrome on WINDOWS (cbb9288a551ed0211cf1b564e5124d6f)] -> xpath: //div[@class='picture']//img[@title='Show details for Nokia Lumia 1020']]
+2023-05-16 17:05:741 INFO  NokiaLumiaPage :52 - Verify text : Nokia Lumia 1020
+2023-05-16 17:05:789 INFO  NokiaLumiaPage :57 - Verify text : $349.00
+2023-05-16 17:05:979 INFO  NokiaLumiaPage :62 - Change Quantity : 2
+2023-05-16 17:05:94 INFO  NokiaLumiaPage :67 - Click on cart button : [[ChromeDriver: chrome on WINDOWS (cbb9288a551ed0211cf1b564e5124d6f)] -> id: add-to-cart-button-20]
+2023-05-16 17:05:359 INFO  NokiaLumiaPage :72 - Verify text : The product has been added to your shopping cart
+2023-05-16 17:05:523 INFO  NokiaLumiaPage :77 - Click on green button : [[ChromeDriver: chrome on WINDOWS (cbb9288a551ed0211cf1b564e5124d6f)] -> css selector: span[title='Close']]
+2023-05-16 17:05:909 INFO  NokiaLumiaPage :82 - Mouse hover on shopping cart : [[ChromeDriver: chrome on WINDOWS (cbb9288a551ed0211cf1b564e5124d6f)] -> xpath: //span[text()='Shopping cart']]
+2023-05-16 17:05:90 INFO  NokiaLumiaPage :87 - Click on go to cart : [[ChromeDriver: chrome on WINDOWS (cbb9288a551ed0211cf1b564e5124d6f)] -> xpath: //button[text()='Go to cart']]
+2023-05-16 17:05:148 INFO  ShoppingCartPage :53 - Verify shopping cart title : Shopping cart
+2023-05-16 17:05:219 INFO  ShoppingCartPage :90 - Verify quantity for nokia : 2
+2023-05-16 17:05:397 INFO  HomePage :141 - Mouse hover on electronics [[ChromeDriver: chrome on WINDOWS (a8f4449da2366216299093670fd7d182)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Electronics']]
+2023-05-16 17:05:797 INFO  HomePage :146 - Mouse hover on electronics [[ChromeDriver: chrome on WINDOWS (a8f4449da2366216299093670fd7d182)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Cell phones']]
+2023-05-16 17:05:857 INFO  CellPhonesPage :31 - Verify text : Cell phones
+2023-05-16 17:05:954 INFO  CellPhonesPage :36 - Click on list : [[ChromeDriver: chrome on WINDOWS (a8f4449da2366216299093670fd7d182)] -> xpath: //a[contains(text(),'List')]]
+2023-05-16 17:05:922 INFO  CellPhonesPage :41 - Click on nokia lumia : [[ChromeDriver: chrome on WINDOWS (a8f4449da2366216299093670fd7d182)] -> xpath: //div[@class='picture']//img[@title='Show details for Nokia Lumia 1020']]
+2023-05-16 17:05:981 INFO  NokiaLumiaPage :52 - Verify text : Nokia Lumia 1020
+2023-05-16 17:05:28 INFO  NokiaLumiaPage :57 - Verify text : $349.00
+2023-05-16 17:05:209 INFO  NokiaLumiaPage :62 - Change Quantity : 2
+2023-05-16 17:05:355 INFO  NokiaLumiaPage :67 - Click on cart button : [[ChromeDriver: chrome on WINDOWS (a8f4449da2366216299093670fd7d182)] -> id: add-to-cart-button-20]
+2023-05-16 17:05:649 INFO  NokiaLumiaPage :72 - Verify text : The product has been added to your shopping cart
+2023-05-16 17:05:822 INFO  NokiaLumiaPage :77 - Click on green button : [[ChromeDriver: chrome on WINDOWS (a8f4449da2366216299093670fd7d182)] -> css selector: span[title='Close']]
+2023-05-16 17:05:259 INFO  NokiaLumiaPage :82 - Mouse hover on shopping cart : [[ChromeDriver: chrome on WINDOWS (a8f4449da2366216299093670fd7d182)] -> xpath: //span[text()='Shopping cart']]
+2023-05-16 17:05:310 INFO  NokiaLumiaPage :87 - Click on go to cart : [[ChromeDriver: chrome on WINDOWS (a8f4449da2366216299093670fd7d182)] -> xpath: //button[text()='Go to cart']]
+2023-05-16 17:05:371 INFO  ShoppingCartPage :53 - Verify shopping cart title : Shopping cart
+2023-05-16 17:05:453 INFO  ShoppingCartPage :90 - Verify quantity for nokia : 2
+2023-05-16 17:05:75 INFO  HomePage :141 - Mouse hover on electronics [[ChromeDriver: chrome on WINDOWS (7563cc2f79102f7b1b30726ac4fef9b6)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Electronics']]
+2023-05-16 17:05:391 INFO  HomePage :146 - Mouse hover on electronics [[ChromeDriver: chrome on WINDOWS (7563cc2f79102f7b1b30726ac4fef9b6)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Cell phones']]
+2023-05-16 17:05:457 INFO  CellPhonesPage :31 - Verify text : Cell phones
+2023-05-16 17:05:548 INFO  CellPhonesPage :36 - Click on list : [[ChromeDriver: chrome on WINDOWS (7563cc2f79102f7b1b30726ac4fef9b6)] -> xpath: //a[contains(text(),'List')]]
+2023-05-16 17:05:490 INFO  CellPhonesPage :41 - Click on nokia lumia : [[ChromeDriver: chrome on WINDOWS (7563cc2f79102f7b1b30726ac4fef9b6)] -> xpath: //div[@class='picture']//img[@title='Show details for Nokia Lumia 1020']]
+2023-05-16 17:05:554 INFO  NokiaLumiaPage :52 - Verify text : Nokia Lumia 1020
+2023-05-16 17:05:595 INFO  NokiaLumiaPage :57 - Verify text : $349.00
+2023-05-16 17:05:758 INFO  NokiaLumiaPage :62 - Change Quantity : 2
+2023-05-16 17:05:892 INFO  NokiaLumiaPage :67 - Click on cart button : [[ChromeDriver: chrome on WINDOWS (7563cc2f79102f7b1b30726ac4fef9b6)] -> id: add-to-cart-button-20]
+2023-05-16 17:05:160 INFO  NokiaLumiaPage :72 - Verify text : The product has been added to your shopping cart
+2023-05-16 17:05:350 INFO  NokiaLumiaPage :77 - Click on green button : [[ChromeDriver: chrome on WINDOWS (7563cc2f79102f7b1b30726ac4fef9b6)] -> css selector: span[title='Close']]
+2023-05-16 17:05:797 INFO  NokiaLumiaPage :82 - Mouse hover on shopping cart : [[ChromeDriver: chrome on WINDOWS (7563cc2f79102f7b1b30726ac4fef9b6)] -> xpath: //span[text()='Shopping cart']]
+2023-05-16 17:05:08 INFO  NokiaLumiaPage :87 - Click on go to cart : [[ChromeDriver: chrome on WINDOWS (7563cc2f79102f7b1b30726ac4fef9b6)] -> xpath: //button[text()='Go to cart']]
+2023-05-16 17:05:71 INFO  ShoppingCartPage :53 - Verify shopping cart title : Shopping cart
+2023-05-16 17:05:146 INFO  ShoppingCartPage :90 - Verify quantity for nokia : 2
+2023-05-16 17:05:224 INFO  ShoppingCartPage :66 - Verify total : $698.00
+2023-05-16 17:05:582 INFO  ShoppingCartPage :72 - Click on terms of services [[ChromeDriver: chrome on WINDOWS (7563cc2f79102f7b1b30726ac4fef9b6)] -> id: termsofservice]
+2023-05-16 17:05:403 INFO  ShoppingCartPage :78 - Check out button : [[ChromeDriver: chrome on WINDOWS (7563cc2f79102f7b1b30726ac4fef9b6)] -> id: checkout]
+2023-05-16 17:05:444 INFO  SignInPage :32 - Verify Welcome text : Welcome, Please Sign In!
+2023-05-16 17:05:892 INFO  SignInPage :42 - Click on register button : [[ChromeDriver: chrome on WINDOWS (7563cc2f79102f7b1b30726ac4fef9b6)] -> xpath: //button[text()='Register']]
+2023-05-16 17:05:263 INFO  HomePage :141 - Mouse hover on electronics [[ChromeDriver: chrome on WINDOWS (12ff09407f02eca945260280dc67829e)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Electronics']]
+2023-05-16 17:05:503 INFO  HomePage :146 - Mouse hover on electronics [[ChromeDriver: chrome on WINDOWS (12ff09407f02eca945260280dc67829e)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Cell phones']]
+2023-05-16 17:05:576 INFO  CellPhonesPage :31 - Verify text : Cell phones
+2023-05-16 17:05:659 INFO  CellPhonesPage :36 - Click on list : [[ChromeDriver: chrome on WINDOWS (12ff09407f02eca945260280dc67829e)] -> xpath: //a[contains(text(),'List')]]
+2023-05-16 17:05:455 INFO  CellPhonesPage :41 - Click on nokia lumia : [[ChromeDriver: chrome on WINDOWS (12ff09407f02eca945260280dc67829e)] -> xpath: //div[@class='picture']//img[@title='Show details for Nokia Lumia 1020']]
+2023-05-16 17:05:562 INFO  NokiaLumiaPage :52 - Verify text : Nokia Lumia 1020
+2023-05-16 17:05:615 INFO  NokiaLumiaPage :57 - Verify text : $349.00
+2023-05-16 17:05:629 INFO  NokiaLumiaPage :62 - Change Quantity : 2
+2023-05-16 17:05:747 INFO  NokiaLumiaPage :67 - Click on cart button : [[ChromeDriver: chrome on WINDOWS (12ff09407f02eca945260280dc67829e)] -> id: add-to-cart-button-20]
+2023-05-16 17:05:35 INFO  NokiaLumiaPage :72 - Verify text : The product has been added to your shopping cart
+2023-05-16 17:05:287 INFO  NokiaLumiaPage :77 - Click on green button : [[ChromeDriver: chrome on WINDOWS (12ff09407f02eca945260280dc67829e)] -> css selector: span[title='Close']]
+2023-05-16 17:05:553 INFO  NokiaLumiaPage :82 - Mouse hover on shopping cart : [[ChromeDriver: chrome on WINDOWS (12ff09407f02eca945260280dc67829e)] -> xpath: //span[text()='Shopping cart']]
+2023-05-16 17:05:770 INFO  NokiaLumiaPage :87 - Click on go to cart : [[ChromeDriver: chrome on WINDOWS (12ff09407f02eca945260280dc67829e)] -> xpath: //button[text()='Go to cart']]
+2023-05-16 17:05:849 INFO  ShoppingCartPage :53 - Verify shopping cart title : Shopping cart
+2023-05-16 17:05:943 INFO  ShoppingCartPage :90 - Verify quantity for nokia : 2
+2023-05-16 17:05:22 INFO  ShoppingCartPage :66 - Verify total : $698.00
+2023-05-16 17:05:403 INFO  ShoppingCartPage :72 - Click on terms of services [[ChromeDriver: chrome on WINDOWS (12ff09407f02eca945260280dc67829e)] -> id: termsofservice]
+2023-05-16 17:05:116 INFO  ShoppingCartPage :78 - Check out button : [[ChromeDriver: chrome on WINDOWS (12ff09407f02eca945260280dc67829e)] -> id: checkout]
+2023-05-16 17:05:154 INFO  SignInPage :32 - Verify Welcome text : Welcome, Please Sign In!
+2023-05-16 17:05:639 INFO  SignInPage :42 - Click on register button : [[ChromeDriver: chrome on WINDOWS (12ff09407f02eca945260280dc67829e)] -> xpath: //button[text()='Register']]
+2023-05-16 17:05:704 INFO  RegisterPage :56 - Verify text : Register
+2023-05-16 17:05:839 INFO  RegisterPage :61 - Input first name : Henry
+2023-05-16 17:05:953 INFO  RegisterPage :66 - Input last name : smith
+2023-05-16 17:05:52 INFO  RegisterPage :71 - Enter email : henrysmith@gmail.com
+2023-05-16 17:05:147 INFO  RegisterPage :76 - Enter password : password123
+2023-05-16 17:05:257 INFO  RegisterPage :81 - Confirm password : password123
+2023-05-16 17:05:870 INFO  RegisterPage :86 - Click on register : [[ChromeDriver: chrome on WINDOWS (12ff09407f02eca945260280dc67829e)] -> id: register-button]
+2023-05-16 18:05:498 INFO  HomePage :141 - Mouse hover on electronics [[ChromeDriver: chrome on WINDOWS (d9e433d53abec81f49ce8d54448b910d)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Electronics']]
+2023-05-16 18:05:64 INFO  HomePage :146 - Mouse hover on electronics [[ChromeDriver: chrome on WINDOWS (d9e433d53abec81f49ce8d54448b910d)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Cell phones']]
+2023-05-16 18:05:132 INFO  CellPhonesPage :31 - Verify text : Cell phones
+2023-05-16 18:05:200 INFO  CellPhonesPage :36 - Click on list : [[ChromeDriver: chrome on WINDOWS (d9e433d53abec81f49ce8d54448b910d)] -> xpath: //a[contains(text(),'List')]]
+2023-05-16 18:05:204 INFO  CellPhonesPage :41 - Click on nokia lumia : [[ChromeDriver: chrome on WINDOWS (d9e433d53abec81f49ce8d54448b910d)] -> xpath: //div[@class='picture']//img[@title='Show details for Nokia Lumia 1020']]
+2023-05-16 18:05:250 INFO  NokiaLumiaPage :52 - Verify text : Nokia Lumia 1020
+2023-05-16 18:05:293 INFO  NokiaLumiaPage :57 - Verify text : $349.00
+2023-05-16 18:05:404 INFO  NokiaLumiaPage :62 - Change Quantity : 2
+2023-05-16 18:05:480 INFO  NokiaLumiaPage :67 - Click on cart button : [[ChromeDriver: chrome on WINDOWS (d9e433d53abec81f49ce8d54448b910d)] -> id: add-to-cart-button-20]
+2023-05-16 18:05:709 INFO  NokiaLumiaPage :72 - Verify text : The product has been added to your shopping cart
+2023-05-16 18:05:821 INFO  NokiaLumiaPage :77 - Click on green button : [[ChromeDriver: chrome on WINDOWS (d9e433d53abec81f49ce8d54448b910d)] -> css selector: span[title='Close']]
+2023-05-16 18:05:26 INFO  NokiaLumiaPage :82 - Mouse hover on shopping cart : [[ChromeDriver: chrome on WINDOWS (d9e433d53abec81f49ce8d54448b910d)] -> xpath: //span[text()='Shopping cart']]
+2023-05-16 18:05:409 INFO  NokiaLumiaPage :87 - Click on go to cart : [[ChromeDriver: chrome on WINDOWS (d9e433d53abec81f49ce8d54448b910d)] -> xpath: //button[text()='Go to cart']]
+2023-05-16 18:05:453 INFO  ShoppingCartPage :53 - Verify shopping cart title : Shopping cart
+2023-05-16 18:05:512 INFO  ShoppingCartPage :90 - Verify quantity for nokia : 2
+2023-05-16 18:05:548 INFO  ShoppingCartPage :66 - Verify total : $698.00
+2023-05-16 18:05:625 INFO  ShoppingCartPage :72 - Click on terms of services [[ChromeDriver: chrome on WINDOWS (d9e433d53abec81f49ce8d54448b910d)] -> id: termsofservice]
+2023-05-16 18:05:208 INFO  ShoppingCartPage :78 - Check out button : [[ChromeDriver: chrome on WINDOWS (d9e433d53abec81f49ce8d54448b910d)] -> id: checkout]
+2023-05-16 18:05:243 INFO  SignInPage :32 - Verify Welcome text : Welcome, Please Sign In!
+2023-05-16 18:05:628 INFO  SignInPage :42 - Click on register button : [[ChromeDriver: chrome on WINDOWS (d9e433d53abec81f49ce8d54448b910d)] -> xpath: //button[text()='Register']]
+2023-05-16 18:05:663 INFO  RegisterPage :56 - Verify text : Register
+2023-05-16 18:05:753 INFO  RegisterPage :61 - Input first name : Henry
+2023-05-16 18:05:823 INFO  RegisterPage :66 - Input last name : smith
+2023-05-16 18:05:888 INFO  RegisterPage :71 - Enter email : henrysmith@gmail.com
+2023-05-16 18:05:951 INFO  RegisterPage :76 - Enter password : password123
+2023-05-16 18:05:22 INFO  RegisterPage :81 - Confirm password : password123
+2023-05-16 18:05:423 INFO  RegisterPage :86 - Click on register : [[ChromeDriver: chrome on WINDOWS (d9e433d53abec81f49ce8d54448b910d)] -> id: register-button]
+2023-05-16 18:05:88 INFO  HomePage :141 - Mouse hover on electronics [[ChromeDriver: chrome on WINDOWS (7d2d1c46a419baeb18680867f64eeebc)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Electronics']]
+2023-05-16 18:05:669 INFO  HomePage :146 - Mouse hover on electronics [[ChromeDriver: chrome on WINDOWS (7d2d1c46a419baeb18680867f64eeebc)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Cell phones']]
+2023-05-16 18:05:742 INFO  CellPhonesPage :31 - Verify text : Cell phones
+2023-05-16 18:05:814 INFO  CellPhonesPage :36 - Click on list : [[ChromeDriver: chrome on WINDOWS (7d2d1c46a419baeb18680867f64eeebc)] -> xpath: //a[contains(text(),'List')]]
+2023-05-16 18:05:605 INFO  CellPhonesPage :41 - Click on nokia lumia : [[ChromeDriver: chrome on WINDOWS (7d2d1c46a419baeb18680867f64eeebc)] -> xpath: //div[@class='picture']//img[@title='Show details for Nokia Lumia 1020']]
+2023-05-16 18:05:647 INFO  NokiaLumiaPage :52 - Verify text : Nokia Lumia 1020
+2023-05-16 18:05:680 INFO  NokiaLumiaPage :57 - Verify text : $349.00
+2023-05-16 18:05:824 INFO  NokiaLumiaPage :62 - Change Quantity : 2
+2023-05-16 18:05:911 INFO  NokiaLumiaPage :67 - Click on cart button : [[ChromeDriver: chrome on WINDOWS (7d2d1c46a419baeb18680867f64eeebc)] -> id: add-to-cart-button-20]
+2023-05-16 18:05:208 INFO  NokiaLumiaPage :72 - Verify text : The product has been added to your shopping cart
+2023-05-16 18:05:469 INFO  NokiaLumiaPage :77 - Click on green button : [[ChromeDriver: chrome on WINDOWS (7d2d1c46a419baeb18680867f64eeebc)] -> css selector: span[title='Close']]
+2023-05-16 18:05:833 INFO  NokiaLumiaPage :82 - Mouse hover on shopping cart : [[ChromeDriver: chrome on WINDOWS (7d2d1c46a419baeb18680867f64eeebc)] -> xpath: //span[text()='Shopping cart']]
+2023-05-16 18:05:812 INFO  NokiaLumiaPage :87 - Click on go to cart : [[ChromeDriver: chrome on WINDOWS (7d2d1c46a419baeb18680867f64eeebc)] -> xpath: //button[text()='Go to cart']]
+2023-05-16 18:05:861 INFO  ShoppingCartPage :53 - Verify shopping cart title : Shopping cart
+2023-05-16 18:05:919 INFO  ShoppingCartPage :90 - Verify quantity for nokia : 2
+2023-05-16 18:05:942 INFO  ShoppingCartPage :66 - Verify total : $698.00
+2023-05-16 18:05:998 INFO  ShoppingCartPage :72 - Click on terms of services [[ChromeDriver: chrome on WINDOWS (7d2d1c46a419baeb18680867f64eeebc)] -> id: termsofservice]
+2023-05-16 18:05:539 INFO  ShoppingCartPage :78 - Check out button : [[ChromeDriver: chrome on WINDOWS (7d2d1c46a419baeb18680867f64eeebc)] -> id: checkout]
+2023-05-16 18:05:807 INFO  SignInPage :32 - Verify Welcome text : Welcome, Please Sign In!
+2023-05-16 18:05:140 INFO  SignInPage :42 - Click on register button : [[ChromeDriver: chrome on WINDOWS (7d2d1c46a419baeb18680867f64eeebc)] -> xpath: //button[text()='Register']]
+2023-05-16 18:05:186 INFO  RegisterPage :56 - Verify text : Register
+2023-05-16 18:05:266 INFO  RegisterPage :61 - Input first name : Henry
+2023-05-16 18:05:349 INFO  RegisterPage :66 - Input last name : smith
+2023-05-16 18:05:435 INFO  RegisterPage :71 - Enter email : henrysmith1@gmail.com
+2023-05-16 18:05:503 INFO  RegisterPage :76 - Enter password : password123
+2023-05-16 18:05:586 INFO  RegisterPage :81 - Confirm password : password123
+2023-05-16 18:05:198 INFO  RegisterPage :86 - Click on register : [[ChromeDriver: chrome on WINDOWS (7d2d1c46a419baeb18680867f64eeebc)] -> id: register-button]
+2023-05-16 18:05:241 INFO  RegisterPage :91 - Verify text : Your registration completed
+2023-05-16 18:05:593 INFO  RegisterPage :96 - Continue button : [[ChromeDriver: chrome on WINDOWS (7d2d1c46a419baeb18680867f64eeebc)] -> xpath: //a[contains(text(),'Continue')]]
+2023-05-16 18:05:642 INFO  ShoppingCartPage :53 - Verify shopping cart title : Shopping cart
+2023-05-16 18:05:644 INFO  HomePage :141 - Mouse hover on electronics [[ChromeDriver: chrome on WINDOWS (2f0e2f4d77aeae3f0ca64e1b926e0afe)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Electronics']]
+2023-05-16 18:05:679 INFO  HomePage :146 - Mouse hover on electronics [[ChromeDriver: chrome on WINDOWS (2f0e2f4d77aeae3f0ca64e1b926e0afe)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Cell phones']]
+2023-05-16 18:05:746 INFO  CellPhonesPage :31 - Verify text : Cell phones
+2023-05-16 18:05:828 INFO  CellPhonesPage :36 - Click on list : [[ChromeDriver: chrome on WINDOWS (2f0e2f4d77aeae3f0ca64e1b926e0afe)] -> xpath: //a[contains(text(),'List')]]
+2023-05-16 18:05:912 INFO  CellPhonesPage :41 - Click on nokia lumia : [[ChromeDriver: chrome on WINDOWS (2f0e2f4d77aeae3f0ca64e1b926e0afe)] -> xpath: //div[@class='picture']//img[@title='Show details for Nokia Lumia 1020']]
+2023-05-16 18:05:962 INFO  NokiaLumiaPage :52 - Verify text : Nokia Lumia 1020
+2023-05-16 18:05:00 INFO  NokiaLumiaPage :57 - Verify text : $349.00
+2023-05-16 18:05:121 INFO  NokiaLumiaPage :62 - Change Quantity : 2
+2023-05-16 18:05:186 INFO  NokiaLumiaPage :67 - Click on cart button : [[ChromeDriver: chrome on WINDOWS (2f0e2f4d77aeae3f0ca64e1b926e0afe)] -> id: add-to-cart-button-20]
+2023-05-16 18:05:471 INFO  NokiaLumiaPage :72 - Verify text : The product has been added to your shopping cart
+2023-05-16 18:05:559 INFO  NokiaLumiaPage :77 - Click on green button : [[ChromeDriver: chrome on WINDOWS (2f0e2f4d77aeae3f0ca64e1b926e0afe)] -> css selector: span[title='Close']]
+2023-05-16 18:05:768 INFO  NokiaLumiaPage :82 - Mouse hover on shopping cart : [[ChromeDriver: chrome on WINDOWS (2f0e2f4d77aeae3f0ca64e1b926e0afe)] -> xpath: //span[text()='Shopping cart']]
+2023-05-16 18:05:69 INFO  NokiaLumiaPage :87 - Click on go to cart : [[ChromeDriver: chrome on WINDOWS (2f0e2f4d77aeae3f0ca64e1b926e0afe)] -> xpath: //button[text()='Go to cart']]
+2023-05-16 18:05:102 INFO  ShoppingCartPage :53 - Verify shopping cart title : Shopping cart
+2023-05-16 18:05:176 INFO  ShoppingCartPage :90 - Verify quantity for nokia : 2
+2023-05-16 18:05:212 INFO  ShoppingCartPage :66 - Verify total : $698.00
+2023-05-16 18:05:298 INFO  ShoppingCartPage :72 - Click on terms of services [[ChromeDriver: chrome on WINDOWS (2f0e2f4d77aeae3f0ca64e1b926e0afe)] -> id: termsofservice]
+2023-05-16 18:05:914 INFO  ShoppingCartPage :78 - Check out button : [[ChromeDriver: chrome on WINDOWS (2f0e2f4d77aeae3f0ca64e1b926e0afe)] -> id: checkout]
+2023-05-16 18:05:956 INFO  SignInPage :32 - Verify Welcome text : Welcome, Please Sign In!
+2023-05-16 18:05:313 INFO  SignInPage :42 - Click on register button : [[ChromeDriver: chrome on WINDOWS (2f0e2f4d77aeae3f0ca64e1b926e0afe)] -> xpath: //button[text()='Register']]
+2023-05-16 18:05:367 INFO  RegisterPage :56 - Verify text : Register
+2023-05-16 18:05:452 INFO  RegisterPage :61 - Input first name : Henry
+2023-05-16 18:05:519 INFO  RegisterPage :66 - Input last name : smith
+2023-05-16 18:05:601 INFO  RegisterPage :71 - Enter email : henrysmith12@gmail.com
+2023-05-16 18:05:664 INFO  RegisterPage :76 - Enter password : password123
+2023-05-16 18:05:731 INFO  RegisterPage :81 - Confirm password : password123
+2023-05-16 18:05:326 INFO  RegisterPage :86 - Click on register : [[ChromeDriver: chrome on WINDOWS (2f0e2f4d77aeae3f0ca64e1b926e0afe)] -> id: register-button]
+2023-05-16 18:05:363 INFO  RegisterPage :91 - Verify text : Your registration completed
+2023-05-16 18:05:690 INFO  RegisterPage :96 - Continue button : [[ChromeDriver: chrome on WINDOWS (2f0e2f4d77aeae3f0ca64e1b926e0afe)] -> xpath: //a[contains(text(),'Continue')]]
+2023-05-16 18:05:729 INFO  ShoppingCartPage :53 - Verify shopping cart title : Shopping cart
+2023-05-16 18:05:546 INFO  HomePage :141 - Mouse hover on electronics [[ChromeDriver: chrome on WINDOWS (0c6de2c4b591faa783c6ec1dded101a0)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Electronics']]
+2023-05-16 18:05:169 INFO  HomePage :146 - Mouse hover on electronics [[ChromeDriver: chrome on WINDOWS (0c6de2c4b591faa783c6ec1dded101a0)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Cell phones']]
+2023-05-16 18:05:227 INFO  CellPhonesPage :31 - Verify text : Cell phones
+2023-05-16 18:05:299 INFO  CellPhonesPage :36 - Click on list : [[ChromeDriver: chrome on WINDOWS (0c6de2c4b591faa783c6ec1dded101a0)] -> xpath: //a[contains(text(),'List')]]
+2023-05-16 18:05:15 INFO  CellPhonesPage :41 - Click on nokia lumia : [[ChromeDriver: chrome on WINDOWS (0c6de2c4b591faa783c6ec1dded101a0)] -> xpath: //div[@class='picture']//img[@title='Show details for Nokia Lumia 1020']]
+2023-05-16 18:05:48 INFO  NokiaLumiaPage :52 - Verify text : Nokia Lumia 1020
+2023-05-16 18:05:76 INFO  NokiaLumiaPage :57 - Verify text : $349.00
+2023-05-16 18:05:179 INFO  NokiaLumiaPage :62 - Change Quantity : 2
+2023-05-16 18:05:259 INFO  NokiaLumiaPage :67 - Click on cart button : [[ChromeDriver: chrome on WINDOWS (0c6de2c4b591faa783c6ec1dded101a0)] -> id: add-to-cart-button-20]
+2023-05-16 18:05:565 INFO  NokiaLumiaPage :72 - Verify text : The product has been added to your shopping cart
+2023-05-16 18:05:680 INFO  NokiaLumiaPage :77 - Click on green button : [[ChromeDriver: chrome on WINDOWS (0c6de2c4b591faa783c6ec1dded101a0)] -> css selector: span[title='Close']]
+2023-05-16 18:05:999 INFO  NokiaLumiaPage :82 - Mouse hover on shopping cart : [[ChromeDriver: chrome on WINDOWS (0c6de2c4b591faa783c6ec1dded101a0)] -> xpath: //span[text()='Shopping cart']]
+2023-05-16 18:05:167 INFO  NokiaLumiaPage :87 - Click on go to cart : [[ChromeDriver: chrome on WINDOWS (0c6de2c4b591faa783c6ec1dded101a0)] -> xpath: //button[text()='Go to cart']]
+2023-05-16 18:05:213 INFO  ShoppingCartPage :53 - Verify shopping cart title : Shopping cart
+2023-05-16 18:05:266 INFO  ShoppingCartPage :90 - Verify quantity for nokia : 2
+2023-05-16 18:05:291 INFO  ShoppingCartPage :66 - Verify total : $698.00
+2023-05-16 18:05:362 INFO  ShoppingCartPage :72 - Click on terms of services [[ChromeDriver: chrome on WINDOWS (0c6de2c4b591faa783c6ec1dded101a0)] -> id: termsofservice]
+2023-05-16 18:05:38 INFO  ShoppingCartPage :78 - Check out button : [[ChromeDriver: chrome on WINDOWS (0c6de2c4b591faa783c6ec1dded101a0)] -> id: checkout]
+2023-05-16 18:05:83 INFO  SignInPage :32 - Verify Welcome text : Welcome, Please Sign In!
+2023-05-16 18:05:430 INFO  SignInPage :42 - Click on register button : [[ChromeDriver: chrome on WINDOWS (0c6de2c4b591faa783c6ec1dded101a0)] -> xpath: //button[text()='Register']]
+2023-05-16 18:05:473 INFO  RegisterPage :56 - Verify text : Register
+2023-05-16 18:05:541 INFO  RegisterPage :61 - Input first name : Henry
+2023-05-16 18:05:612 INFO  RegisterPage :66 - Input last name : smith
+2023-05-16 18:05:695 INFO  RegisterPage :71 - Enter email : henrysmith12@gmail.com
+2023-05-16 18:05:751 INFO  RegisterPage :76 - Enter password : password123
+2023-05-16 18:05:822 INFO  RegisterPage :81 - Confirm password : password123
+2023-05-16 18:05:205 INFO  RegisterPage :86 - Click on register : [[ChromeDriver: chrome on WINDOWS (0c6de2c4b591faa783c6ec1dded101a0)] -> id: register-button]
+2023-05-16 18:05:968 INFO  HomePage :141 - Mouse hover on electronics [[ChromeDriver: chrome on WINDOWS (13975a777e58d44df5e1e24230bc7870)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Electronics']]
+2023-05-16 18:05:959 INFO  HomePage :146 - Mouse hover on electronics [[ChromeDriver: chrome on WINDOWS (13975a777e58d44df5e1e24230bc7870)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Cell phones']]
+2023-05-16 18:05:19 INFO  CellPhonesPage :31 - Verify text : Cell phones
+2023-05-16 18:05:76 INFO  CellPhonesPage :36 - Click on list : [[ChromeDriver: chrome on WINDOWS (13975a777e58d44df5e1e24230bc7870)] -> xpath: //a[contains(text(),'List')]]
+2023-05-16 18:05:836 INFO  CellPhonesPage :41 - Click on nokia lumia : [[ChromeDriver: chrome on WINDOWS (13975a777e58d44df5e1e24230bc7870)] -> xpath: //div[@class='picture']//img[@title='Show details for Nokia Lumia 1020']]
+2023-05-16 18:05:875 INFO  NokiaLumiaPage :52 - Verify text : Nokia Lumia 1020
+2023-05-16 18:05:901 INFO  NokiaLumiaPage :57 - Verify text : $349.00
+2023-05-16 18:05:996 INFO  NokiaLumiaPage :62 - Change Quantity : 2
+2023-05-16 18:05:87 INFO  NokiaLumiaPage :67 - Click on cart button : [[ChromeDriver: chrome on WINDOWS (13975a777e58d44df5e1e24230bc7870)] -> id: add-to-cart-button-20]
+2023-05-16 18:05:324 INFO  NokiaLumiaPage :72 - Verify text : The product has been added to your shopping cart
+2023-05-16 18:05:417 INFO  NokiaLumiaPage :77 - Click on green button : [[ChromeDriver: chrome on WINDOWS (13975a777e58d44df5e1e24230bc7870)] -> css selector: span[title='Close']]
+2023-05-16 18:05:595 INFO  NokiaLumiaPage :82 - Mouse hover on shopping cart : [[ChromeDriver: chrome on WINDOWS (13975a777e58d44df5e1e24230bc7870)] -> xpath: //span[text()='Shopping cart']]
+2023-05-16 18:05:14 INFO  NokiaLumiaPage :87 - Click on go to cart : [[ChromeDriver: chrome on WINDOWS (13975a777e58d44df5e1e24230bc7870)] -> xpath: //button[text()='Go to cart']]
+2023-05-16 18:05:53 INFO  ShoppingCartPage :53 - Verify shopping cart title : Shopping cart
+2023-05-16 18:05:106 INFO  ShoppingCartPage :90 - Verify quantity for nokia : 2
+2023-05-16 18:05:139 INFO  ShoppingCartPage :66 - Verify total : $698.00
+2023-05-16 18:05:190 INFO  ShoppingCartPage :72 - Click on terms of services [[ChromeDriver: chrome on WINDOWS (13975a777e58d44df5e1e24230bc7870)] -> id: termsofservice]
+2023-05-16 18:05:900 INFO  ShoppingCartPage :78 - Check out button : [[ChromeDriver: chrome on WINDOWS (13975a777e58d44df5e1e24230bc7870)] -> id: checkout]
+2023-05-16 18:05:943 INFO  SignInPage :32 - Verify Welcome text : Welcome, Please Sign In!
+2023-05-16 18:05:322 INFO  SignInPage :42 - Click on register button : [[ChromeDriver: chrome on WINDOWS (13975a777e58d44df5e1e24230bc7870)] -> xpath: //button[text()='Register']]
+2023-05-16 18:05:357 INFO  RegisterPage :56 - Verify text : Register
+2023-05-16 18:05:435 INFO  RegisterPage :61 - Input first name : Henry
+2023-05-16 18:05:532 INFO  RegisterPage :66 - Input last name : smith
+2023-05-16 18:05:617 INFO  RegisterPage :71 - Enter email : henrysmith123@gmail.com
+2023-05-16 18:05:678 INFO  RegisterPage :76 - Enter password : password123
+2023-05-16 18:05:746 INFO  RegisterPage :81 - Confirm password : password123
+2023-05-16 18:05:405 INFO  RegisterPage :86 - Click on register : [[ChromeDriver: chrome on WINDOWS (13975a777e58d44df5e1e24230bc7870)] -> id: register-button]
+2023-05-16 18:05:447 INFO  RegisterPage :91 - Verify text : Your registration completed
+2023-05-16 18:05:802 INFO  RegisterPage :96 - Continue button : [[ChromeDriver: chrome on WINDOWS (13975a777e58d44df5e1e24230bc7870)] -> xpath: //a[contains(text(),'Continue')]]
+2023-05-16 18:05:852 INFO  ShoppingCartPage :53 - Verify shopping cart title : Shopping cart
+2023-12-18 17:12:488 INFO  HomePage :141 - Mouse hover on electronics [[ChromeDriver: chrome on windows (d813adbfb963318738305fb4a8aab700)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Electronics']]
+2023-12-18 17:12:994 INFO  HomePage :146 - Mouse hover on electronics [[ChromeDriver: chrome on windows (d813adbfb963318738305fb4a8aab700)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Cell phones']]
+2023-12-18 17:12:79 INFO  CellPhonesPage :31 - Verify text : Cell phones
+2023-12-18 17:12:172 INFO  CellPhonesPage :36 - Click on list : [[ChromeDriver: chrome on windows (d813adbfb963318738305fb4a8aab700)] -> xpath: //a[contains(text(),'List')]]
+2023-12-18 17:12:148 INFO  CellPhonesPage :41 - Click on nokia lumia : [[ChromeDriver: chrome on windows (d813adbfb963318738305fb4a8aab700)] -> xpath: //div[@class='picture']//img[@title='Show details for Nokia Lumia 1020']]
+2023-12-18 17:12:192 INFO  NokiaLumiaPage :52 - Verify text : Nokia Lumia 1020
+2023-12-18 17:12:232 INFO  NokiaLumiaPage :57 - Verify text : $349.00
+2023-12-18 17:12:323 INFO  NokiaLumiaPage :62 - Change Quantity : 2
+2023-12-18 17:12:426 INFO  NokiaLumiaPage :67 - Click on cart button : [[ChromeDriver: chrome on windows (d813adbfb963318738305fb4a8aab700)] -> id: add-to-cart-button-20]
+2023-12-18 17:12:668 INFO  NokiaLumiaPage :72 - Verify text : The product has been added to your shopping cart
+2023-12-18 17:12:749 INFO  NokiaLumiaPage :77 - Click on green button : [[ChromeDriver: chrome on windows (d813adbfb963318738305fb4a8aab700)] -> css selector: span[title='Close']]
+2023-12-18 17:12:900 INFO  NokiaLumiaPage :82 - Mouse hover on shopping cart : [[ChromeDriver: chrome on windows (d813adbfb963318738305fb4a8aab700)] -> xpath: //span[text()='Shopping cart']]
+2023-12-18 17:12:290 INFO  NokiaLumiaPage :87 - Click on go to cart : [[ChromeDriver: chrome on windows (d813adbfb963318738305fb4a8aab700)] -> xpath: //button[text()='Go to cart']]
+2023-12-18 17:12:350 INFO  ShoppingCartPage :53 - Verify shopping cart title : Shopping cart
+2023-12-18 17:12:415 INFO  ShoppingCartPage :90 - Verify quantity for nokia : 2
+2023-12-18 17:12:464 INFO  ShoppingCartPage :66 - Verify total : $698.00
+2023-12-18 17:12:579 INFO  ShoppingCartPage :72 - Click on terms of services [[ChromeDriver: chrome on windows (d813adbfb963318738305fb4a8aab700)] -> id: termsofservice]
+2023-12-18 17:12:576 INFO  ShoppingCartPage :78 - Check out button : [[ChromeDriver: chrome on windows (d813adbfb963318738305fb4a8aab700)] -> id: checkout]
+2023-12-18 17:12:618 INFO  SignInPage :32 - Verify Welcome text : Welcome, Please Sign In!
+2023-12-18 17:12:974 INFO  SignInPage :42 - Click on register button : [[ChromeDriver: chrome on windows (d813adbfb963318738305fb4a8aab700)] -> xpath: //button[text()='Register']]
+2023-12-18 17:12:36 INFO  RegisterPage :56 - Verify text : Register
+2023-12-18 17:12:184 INFO  RegisterPage :61 - Input first name : Henry
+2023-12-18 17:12:347 INFO  RegisterPage :66 - Input last name : smith
+2023-12-18 17:12:478 INFO  RegisterPage :71 - Enter email : henrysmith123@gmail.com
+2023-12-18 17:12:594 INFO  RegisterPage :76 - Enter password : password123
+2023-12-18 17:12:746 INFO  RegisterPage :81 - Confirm password : password123
+2023-12-18 17:12:352 INFO  RegisterPage :86 - Click on register : [[ChromeDriver: chrome on windows (d813adbfb963318738305fb4a8aab700)] -> id: register-button]
+2023-12-18 17:12:405 INFO  RegisterPage :91 - Verify text : Your registration completed
+2023-12-18 17:12:773 INFO  RegisterPage :96 - Continue button : [[ChromeDriver: chrome on windows (d813adbfb963318738305fb4a8aab700)] -> xpath: //a[contains(text(),'Continue')]]
+2023-12-18 17:12:813 INFO  ShoppingCartPage :53 - Verify shopping cart title : Shopping cart
+2023-12-18 17:12:526 INFO  ComputersPage :24 - Clicking on login link : [[ChromeDriver: chrome on windows (283c0bc408107a4052ad75d44d8b308e)] -> xpath: //div[@class='block block-category-navigation']/descendant::a[2]]
+2023-12-18 17:12:689 INFO  DesktopPage :40 - Click on sort by name Z to A : [[ChromeDriver: chrome on windows (283c0bc408107a4052ad75d44d8b308e)] -> name: products-orderby]
+2023-12-18 17:12:841 INFO  DesktopPage :73 - Product is sorted in descending order
+2023-12-18 17:12:907 INFO  ComputersPage :24 - Clicking on login link : [[ChromeDriver: chrome on windows (8adcd3e96c4ada2e7ddb8fe462d22822)] -> xpath: //div[@class='block block-category-navigation']/descendant::a[2]]
+2023-12-18 17:12:39 INFO  DesktopPage :36 - Click on sort by name Z to A : [[ChromeDriver: chrome on windows (8adcd3e96c4ada2e7ddb8fe462d22822)] -> id: products-orderby]
+2023-12-18 17:12:145 INFO  DesktopPage :51 - Click on add to cart button [[ChromeDriver: chrome on windows (8adcd3e96c4ada2e7ddb8fe462d22822)] -> xpath: //div[@class='item-grid']//div[1]//div[1]//div[2]//div[3]//div[2]//button[1]]
+2023-12-18 17:12:765 INFO  BuildYourOwnComputerPage :69 - Build your own computer text : Build your own computer
+2023-12-18 17:12:983 INFO  BuildYourOwnComputerPage :75 - Select processor : 2.2 GHz Intel Pentium Dual-Core E2200
+2023-12-18 17:12:160 INFO  BuildYourOwnComputerPage :81 - Select Ram : 8GB [+$60.00]
+2023-12-18 17:12:265 INFO  BuildYourOwnComputerPage :87 - Select HDD : 400 GB [+$100.00]
+2023-12-18 17:12:333 INFO  BuildYourOwnComputerPage :93 - Select OS : Vista Premium [+$60.00]
+2023-12-18 17:12:449 INFO  BuildYourOwnComputerPage :99 - Select processor : Total Commander [+$5.00]
+2023-12-18 17:12:489 INFO  BuildYourOwnComputerPage :106 - Verify price $1,475.00
+2023-12-18 17:12:550 INFO  BuildYourOwnComputerPage :112 - Click on Add to Cart [[ChromeDriver: chrome on windows (8adcd3e96c4ada2e7ddb8fe462d22822)] -> id: add-to-cart-button-1]
+2023-12-18 17:12:799 INFO  BuildYourOwnComputerPage :118 - Verify add to cart message [[ChromeDriver: chrome on windows (8adcd3e96c4ada2e7ddb8fe462d22822)] -> xpath: //p[text()='The product has been added to your ']]
+2023-12-18 17:12:914 INFO  BuildYourOwnComputerPage :124 - Click on cross button [[ChromeDriver: chrome on windows (8adcd3e96c4ada2e7ddb8fe462d22822)] -> xpath: //span[@title='Close']]
+2023-12-18 17:12:97 INFO  BuildYourOwnComputerPage :130 - Mouse hover on shopping cart [[ChromeDriver: chrome on windows (8adcd3e96c4ada2e7ddb8fe462d22822)] -> xpath: //span[text()='Shopping cart']]
+2023-12-18 17:12:398 INFO  BuildYourOwnComputerPage :136 - Click on go to cart [[ChromeDriver: chrome on windows (8adcd3e96c4ada2e7ddb8fe462d22822)] -> xpath: //button[text()='Go to cart']]
+2023-12-18 17:12:445 INFO  ShoppingCartPage :53 - Verify shopping cart title : Shopping cart
+2023-12-18 17:12:35 INFO  ShoppingCartPage :60 - Change the quantity : 2[[ChromeDriver: chrome on windows (8adcd3e96c4ada2e7ddb8fe462d22822)] -> id: updatecart]
+2023-12-18 17:12:105 INFO  ShoppingCartPage :66 - Verify total : $2,950.00
+2023-12-18 17:12:230 INFO  ShoppingCartPage :72 - Click on terms of services [[ChromeDriver: chrome on windows (8adcd3e96c4ada2e7ddb8fe462d22822)] -> id: termsofservice]
+2023-12-18 17:12:844 INFO  ShoppingCartPage :78 - Check out button : [[ChromeDriver: chrome on windows (8adcd3e96c4ada2e7ddb8fe462d22822)] -> id: checkout]
+2023-12-18 17:12:898 INFO  SignInPage :32 - Verify Welcome text : Welcome, Please Sign In!
+2023-12-18 17:12:461 INFO  SignInPage :37 - Check out as guest button[[ChromeDriver: chrome on windows (8adcd3e96c4ada2e7ddb8fe462d22822)] -> xpath: //button[text()='Checkout as Guest']]
+2023-12-18 17:12:641 INFO  CheckoutPage :142 - Input first name : Ramesh
+2023-12-18 17:12:797 INFO  CheckoutPage :147 - Input last name : Patel
+2023-12-18 17:12:930 INFO  CheckoutPage :152 - Input email : Ramesh100Patel@gmail.com
+2023-12-18 17:12:93 INFO  CheckoutPage :157 - Input country : United Kingdom
+2023-12-18 17:12:196 INFO  CheckoutPage :162 - Input city : London
+2023-12-18 17:12:279 INFO  CheckoutPage :167 - Input Address : 123 High Street
+2023-12-18 17:12:371 INFO  CheckoutPage :172 - Input zip code : zipCode1
+2023-12-18 17:12:458 INFO  CheckoutPage :177 - Input telephone number : 12345678
+2023-12-18 17:12:458 INFO  ComputersPage :24 - Clicking on login link : [[ChromeDriver: chrome on windows (b1f50f4c8a477129aa84cdf09176fd8f)] -> xpath: //div[@class='block block-category-navigation']/descendant::a[2]]
+2023-12-18 17:12:683 INFO  DesktopPage :40 - Click on sort by name Z to A : [[ChromeDriver: chrome on windows (b1f50f4c8a477129aa84cdf09176fd8f)] -> name: products-orderby]
+2023-12-18 17:12:844 INFO  DesktopPage :73 - Product is sorted in descending order
+2023-12-18 17:12:306 INFO  ComputersPage :24 - Clicking on login link : [[ChromeDriver: chrome on windows (af53d0869ab5b53ffb1b77f74a4580b8)] -> xpath: //div[@class='block block-category-navigation']/descendant::a[2]]
+2023-12-18 17:12:478 INFO  DesktopPage :36 - Click on sort by name Z to A : [[ChromeDriver: chrome on windows (af53d0869ab5b53ffb1b77f74a4580b8)] -> id: products-orderby]
+2023-12-18 17:12:555 INFO  DesktopPage :51 - Click on add to cart button [[ChromeDriver: chrome on windows (af53d0869ab5b53ffb1b77f74a4580b8)] -> xpath: //div[@class='item-grid']//div[1]//div[1]//div[2]//div[3]//div[2]//button[1]]
+2023-12-18 17:12:83 INFO  BuildYourOwnComputerPage :69 - Build your own computer text : Build your own computer
+2023-12-18 17:12:251 INFO  BuildYourOwnComputerPage :75 - Select processor : 2.2 GHz Intel Pentium Dual-Core E2200
+2023-12-18 17:12:407 INFO  BuildYourOwnComputerPage :81 - Select Ram : 8GB [+$60.00]
+2023-12-18 17:12:514 INFO  BuildYourOwnComputerPage :87 - Select HDD : 400 GB [+$100.00]
+2023-12-18 17:12:619 INFO  BuildYourOwnComputerPage :93 - Select OS : Vista Premium [+$60.00]
+2023-12-18 17:12:720 INFO  BuildYourOwnComputerPage :99 - Select processor : Total Commander [+$5.00]
+2023-12-18 17:12:756 INFO  BuildYourOwnComputerPage :106 - Verify price $1,475.00
+2023-12-18 17:12:834 INFO  BuildYourOwnComputerPage :112 - Click on Add to Cart [[ChromeDriver: chrome on windows (af53d0869ab5b53ffb1b77f74a4580b8)] -> id: add-to-cart-button-1]
+2023-12-18 17:12:101 INFO  BuildYourOwnComputerPage :118 - Verify add to cart message [[ChromeDriver: chrome on windows (af53d0869ab5b53ffb1b77f74a4580b8)] -> xpath: //p[text()='The product has been added to your ']]
+2023-12-18 17:12:218 INFO  BuildYourOwnComputerPage :124 - Click on cross button [[ChromeDriver: chrome on windows (af53d0869ab5b53ffb1b77f74a4580b8)] -> xpath: //span[@title='Close']]
+2023-12-18 17:12:414 INFO  BuildYourOwnComputerPage :130 - Mouse hover on shopping cart [[ChromeDriver: chrome on windows (af53d0869ab5b53ffb1b77f74a4580b8)] -> xpath: //span[text()='Shopping cart']]
+2023-12-18 17:12:192 INFO  BuildYourOwnComputerPage :136 - Click on go to cart [[ChromeDriver: chrome on windows (af53d0869ab5b53ffb1b77f74a4580b8)] -> xpath: //button[text()='Go to cart']]
+2023-12-18 17:12:240 INFO  ShoppingCartPage :53 - Verify shopping cart title : Shopping cart
+2023-12-18 17:12:786 INFO  ShoppingCartPage :60 - Change the quantity : 2[[ChromeDriver: chrome on windows (af53d0869ab5b53ffb1b77f74a4580b8)] -> id: updatecart]
+2023-12-18 17:12:838 INFO  ShoppingCartPage :66 - Verify total : $2,950.00
+2023-12-18 17:12:909 INFO  ShoppingCartPage :72 - Click on terms of services [[ChromeDriver: chrome on windows (af53d0869ab5b53ffb1b77f74a4580b8)] -> id: termsofservice]
+2023-12-18 17:12:462 INFO  ShoppingCartPage :78 - Check out button : [[ChromeDriver: chrome on windows (af53d0869ab5b53ffb1b77f74a4580b8)] -> id: checkout]
+2023-12-18 17:12:510 INFO  SignInPage :32 - Verify Welcome text : Welcome, Please Sign In!
+2023-12-18 17:12:64 INFO  SignInPage :37 - Check out as guest button[[ChromeDriver: chrome on windows (af53d0869ab5b53ffb1b77f74a4580b8)] -> xpath: //button[text()='Checkout as Guest']]
+2023-12-18 17:12:178 INFO  CheckoutPage :142 - Input first name : Ramesh
+2023-12-18 17:12:358 INFO  CheckoutPage :147 - Input last name : Patel
+2023-12-18 17:12:506 INFO  CheckoutPage :152 - Input email : Ramesh100Patel@gmail.com
+2023-12-18 17:12:690 INFO  CheckoutPage :157 - Input country : United Kingdom
+2023-12-18 17:12:823 INFO  CheckoutPage :162 - Input city : London
+2023-12-18 17:12:929 INFO  CheckoutPage :167 - Input Address : 123 High Street
+2023-12-18 17:12:32 INFO  CheckoutPage :172 - Input zip code : zipCode1
+2023-12-18 17:12:147 INFO  CheckoutPage :177 - Input telephone number : 12345678
+2023-12-18 19:12:316 INFO  ComputersPage :24 - Clicking on login link : [[ChromeDriver: chrome on windows (f97415f3fb146a049dfe625651ba485e)] -> xpath: //div[@class='block block-category-navigation']/descendant::a[2]]
+2023-12-18 19:12:642 INFO  DesktopPage :40 - Click on sort by name Z to A : [[ChromeDriver: chrome on windows (f97415f3fb146a049dfe625651ba485e)] -> name: products-orderby]
+2023-12-18 19:12:897 INFO  DesktopPage :73 - Product is sorted in descending order
+2023-12-18 19:12:102 INFO  ComputersPage :24 - Clicking on login link : [[ChromeDriver: chrome on windows (5c275944549b734a6777f26acf0d190b)] -> xpath: //div[@class='block block-category-navigation']/descendant::a[2]]
+2023-12-18 19:12:401 INFO  DesktopPage :36 - Click on sort by name Z to A : [[ChromeDriver: chrome on windows (5c275944549b734a6777f26acf0d190b)] -> id: products-orderby]
+2023-12-18 19:12:492 INFO  DesktopPage :51 - Click on add to cart button [[ChromeDriver: chrome on windows (5c275944549b734a6777f26acf0d190b)] -> xpath: //div[@class='item-grid']//div[1]//div[1]//div[2]//div[3]//div[2]//button[1]]
+2023-12-18 19:12:258 INFO  BuildYourOwnComputerPage :69 - Build your own computer text : Build your own computer
+2023-12-18 19:12:582 INFO  BuildYourOwnComputerPage :75 - Select processor : 2.2 GHz Intel Pentium Dual-Core E2200
+2023-12-18 19:12:797 INFO  BuildYourOwnComputerPage :81 - Select Ram : 8GB [+$60.00]
+2023-12-18 19:12:936 INFO  BuildYourOwnComputerPage :87 - Select HDD : 400 GB [+$100.00]
+2023-12-18 19:12:80 INFO  BuildYourOwnComputerPage :93 - Select OS : Vista Premium [+$60.00]
+2023-12-18 19:12:213 INFO  BuildYourOwnComputerPage :99 - Select processor : Total Commander [+$5.00]
+2023-12-18 19:12:280 INFO  BuildYourOwnComputerPage :106 - Verify price $1,475.00
+2023-12-18 19:12:380 INFO  BuildYourOwnComputerPage :112 - Click on Add to Cart [[ChromeDriver: chrome on windows (5c275944549b734a6777f26acf0d190b)] -> id: add-to-cart-button-1]
+2023-12-18 19:12:723 INFO  BuildYourOwnComputerPage :118 - Verify add to cart message [[ChromeDriver: chrome on windows (5c275944549b734a6777f26acf0d190b)] -> xpath: //p[text()='The product has been added to your ']]
+2023-12-18 19:12:161 INFO  BuildYourOwnComputerPage :124 - Click on cross button [[ChromeDriver: chrome on windows (5c275944549b734a6777f26acf0d190b)] -> xpath: //span[@title='Close']]
+2023-12-18 19:12:562 INFO  BuildYourOwnComputerPage :130 - Mouse hover on shopping cart [[ChromeDriver: chrome on windows (5c275944549b734a6777f26acf0d190b)] -> xpath: //span[text()='Shopping cart']]
+2023-12-18 19:12:787 INFO  BuildYourOwnComputerPage :136 - Click on go to cart [[ChromeDriver: chrome on windows (5c275944549b734a6777f26acf0d190b)] -> xpath: //button[text()='Go to cart']]
+2023-12-18 19:12:975 INFO  ShoppingCartPage :53 - Verify shopping cart title : Shopping cart
+2023-12-18 19:12:831 INFO  ShoppingCartPage :60 - Change the quantity : 2[[ChromeDriver: chrome on windows (5c275944549b734a6777f26acf0d190b)] -> id: updatecart]
+2023-12-18 19:12:51 INFO  ShoppingCartPage :66 - Verify total : $2,950.00
+2023-12-18 19:12:254 INFO  ShoppingCartPage :72 - Click on terms of services [[ChromeDriver: chrome on windows (5c275944549b734a6777f26acf0d190b)] -> id: termsofservice]
+2023-12-18 19:12:199 INFO  ShoppingCartPage :78 - Check out button : [[ChromeDriver: chrome on windows (5c275944549b734a6777f26acf0d190b)] -> id: checkout]
+2023-12-18 19:12:420 INFO  SignInPage :32 - Verify Welcome text : Welcome, Please Sign In!
+2023-12-18 19:12:166 INFO  SignInPage :37 - Check out as guest button[[ChromeDriver: chrome on windows (5c275944549b734a6777f26acf0d190b)] -> xpath: //button[text()='Checkout as Guest']]
+2023-12-18 19:12:560 INFO  CheckoutPage :142 - Input first name : Ramesh
+2023-12-18 19:12:775 INFO  CheckoutPage :147 - Input last name : Patel
+2023-12-18 19:12:959 INFO  CheckoutPage :152 - Input email : Ramesh100Patel@gmail.com
+2023-12-18 19:12:99 INFO  CheckoutPage :157 - Input country : United Kingdom
+2023-12-18 19:12:291 INFO  CheckoutPage :162 - Input city : London
+2023-12-18 19:12:439 INFO  CheckoutPage :167 - Input Address : 123 High Street
+2023-12-18 19:12:555 INFO  CheckoutPage :172 - Input zip code : zipCode1
+2023-12-18 19:12:678 INFO  CheckoutPage :177 - Input telephone number : 12345678
+2023-12-18 19:12:772 INFO  CheckoutPage :182 - Click on continue button : [[ChromeDriver: chrome on windows (5c275944549b734a6777f26acf0d190b)] -> xpath: //*[@id="billing-buttons-container"]/button[4]]
+2023-12-18 19:12:205 INFO  CheckoutPage :187 - Click on next day air radio button : [[ChromeDriver: chrome on windows (5c275944549b734a6777f26acf0d190b)] -> id: shippingoption_1]
+2023-12-18 19:12:359 INFO  CheckoutPage :192 - Click on continue shipping button : [[ChromeDriver: chrome on windows (5c275944549b734a6777f26acf0d190b)] -> xpath: //button[@class='button-1 shipping-method-next-step-button']]
+2023-12-18 19:12:753 INFO  CheckoutPage :197 - Click on credit card : [[ChromeDriver: chrome on windows (5c275944549b734a6777f26acf0d190b)] -> id: paymentmethod_1]
+2023-12-18 19:12:866 INFO  CheckoutPage :202 - Click on payment continue [[ChromeDriver: chrome on windows (5c275944549b734a6777f26acf0d190b)] -> xpath: //button[@name='save' and @class='button-1 payment-method-next-step-button']]
+2023-12-18 19:12:978 INFO  CheckoutPage :208 - Select credit card : [[ChromeDriver: chrome on windows (5c275944549b734a6777f26acf0d190b)] -> id: CreditCardType]
+2023-12-18 19:12:91 INFO  CheckoutPage :213 - Input card holder name : Lisa Webb
+2023-12-18 19:12:237 INFO  CheckoutPage :218 - Input card number: 5356654814185420
+2023-12-18 19:12:397 INFO  CheckoutPage :223 - Select expire month : 09
+2023-12-18 19:12:587 INFO  CheckoutPage :228 - Select expire year : [[ChromeDriver: chrome on windows (5c275944549b734a6777f26acf0d190b)] -> id: ExpireYear]
+2023-12-18 19:12:746 INFO  CheckoutPage :233 - Input card holder : 123
+2023-12-18 19:12:861 INFO  CheckoutPage :238 - Click on continue card payment : [[ChromeDriver: chrome on windows (5c275944549b734a6777f26acf0d190b)] -> xpath: //button[@class='button-1 payment-info-next-step-button']]
+2023-12-18 19:12:383 INFO  CheckoutPage :243 - Verify payment method : Credit Card
+2023-12-18 19:12:509 INFO  CheckoutPage :248 - Verify shipping method : Next Day Air
+2023-12-18 19:12:563 INFO  CheckoutPage :253 - Verify total : $2,950.00
+2023-12-18 19:12:658 INFO  CheckoutPage :258 - Click on confirm : [[ChromeDriver: chrome on windows (5c275944549b734a6777f26acf0d190b)] -> xpath: //button[contains(text(),'Confirm')]]
+2023-12-18 19:12:546 INFO  CheckoutPage :263 - Verify thank you  : Thank you
+2023-12-18 19:12:635 INFO  CheckoutPage :268 - Verify order confirmation : Your order has been successfully processed!
+2023-12-18 19:12:170 INFO  CheckoutPage :273 - Click on continue button : [[ChromeDriver: chrome on windows (5c275944549b734a6777f26acf0d190b)] -> xpath: //button[contains(text(),'Continue')]]
+2023-12-18 19:12:467 INFO  HomePage :121 - Verify the welcome page : Welcome to our store
